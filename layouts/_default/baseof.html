@@ -70,7 +70,7 @@
 		============================================= -->
 		<section id="content">
 			<div class="content-wrap">
-				
+				{{ if not .IsHome }}{{- partial "page-title.html" . -}}{{ end }}
 				{{ block "main" . }}
 
 				<!-- The part of the page that begins to differ between templates -->
