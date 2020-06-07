@@ -1,0 +1,9 @@
+<nav class="primary-menu">
+    <ul class="menu-container">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li class="menu-item {{if or ($currentPage.IsMenuCurrent `main` .) ($currentPage.HasMenuCurrent `main` .) }}current{{end}}"><a class="menu-link" href="{{ .URL }}" title="{{ .Title }}"><div>{{ .Name }}</div></a></li>
+        {{ end }}
+    </ul>
+</nav>
+{{ "<!-- #primary-menu end -->" | safeHTML }}
