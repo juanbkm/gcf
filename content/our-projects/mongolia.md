@@ -6,7 +6,7 @@ project_name: Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal P
 approval_date: 1 March 2018
 project_cost: $570.1 M
 financing:
-  - name: •	ADB $80 M
+  - name: ADB $80 M
     amount: [Concessional Ordinary Capital Resources Lending $20 M, OCR $60M]
   - name: GCF $145 M
     amount: [Loan - $95M; Grant - $50M]
