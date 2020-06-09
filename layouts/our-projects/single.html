@@ -6,7 +6,21 @@
             {{ .Content }}
         </div>
         <div class="col-md-4">
-            
+            <h4>Total Project Cost</h4>
+            <p>{{ .Params.project_cost }}</p>
+
+            <h4>GCF Approval Date</h4>
+            <p>{{ .Params.approval_date }}</p>
+
+            <h4>Financing </h4>
+            <ul class="dr-funding">
+                {{ range .Params.financing }}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
+            </ul>
+
+            <h4>Potential Impact</h4>
+            <ul class="dr-funding">
+                {{ range .Params.impact }}<li>{{ .item }}</li>{{ end }}
+            </ul>
         </div>
     </div>
 </div>]
