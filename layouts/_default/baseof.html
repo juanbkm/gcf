@@ -16,8 +16,177 @@
 	<link rel="stylesheet" href="{{ `css/animate.css` | absURL }}" type="text/css" />
 	<link rel="stylesheet" href="{{ `css/magnific-popup.css` | absURL }}" type="text/css" />
 
-	<link rel="stylesheet" href="{{ `css/custom.css` | absURL }}" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<style>
+
+		.swiper-container-horizontal>.swiper-scrollbar {
+			top: 50%;
+			bottom: auto;
+			left: 50%;
+			margin-left: 20%;
+			width: 200px;
+			height: 2px;
+			transform: translateY(-50%);
+			background-color: rgba(0,0,0,0.4);
+			border-radius: 2px;
+		}
+	
+		.swiper-scrollbar-drag { background: #000 }
+	
+		.slide-number {
+			opacity: 1;
+			bottom: 10px;
+			text-align: left;
+			right: auto;
+		}
+	
+		.slide-number-current {
+			top: auto;
+			bottom: 0;
+			font-size: 30px;
+			font-weight: 700;
+		}
+	
+		.slide-number span {
+			margin-left: 20px;
+			font-size: 16px;
+		}
+	
+		.slide-number-total {
+			font-size: 13px;
+			line-height: 28px;
+			left: 29px;
+		}
+	
+		.swiper-navs {
+			position: absolute;
+			display: block;
+			left: 50%;
+			top: 50%;
+			margin-top: 60px;
+			margin-left: 20%;
+		}
+	
+		.slider-arrow-left,
+		.slider-arrow-right {
+			border-radius: 50%;
+			background: transparent;
+			border: 1px solid rgba(0,0,0,0.7);
+			width: 36px;
+			height: 36px;
+		}
+	
+		.slider-arrow-right { left: 45px; }
+	
+		.slider-arrow-left i,
+		.slider-arrow-right i {
+			display: block;
+			width: 36px;
+			height: 36px;
+			font-size: 16px;
+			line-height: 34px;
+			margin: 0 auto;
+			color: #000;
+		}
+	
+		.slider-arrow-right i { margin-left: -1px; }
+	
+		.swiper-button-disabled {
+			opacity: .5;
+			cursor: default;
+		}
+	
+		.dark .slider-arrow-left,
+		.dark .slider-arrow-right { border-color: rgba(255,255,255,0.7); }
+	
+		.dark .swiper-container-horizontal > .swiper-scrollbar { background-color: rgba(255,255,255,0.4);  }
+	
+		.dark .swiper-scrollbar-drag { background: #FFF }
+	
+		.dark .slide-number,
+		.dark .slider-arrow-left i,
+		.dark .slider-arrow-right i { color: #FFF; }
+	
+		@media (min-width: 576px) and (max-width: 767px) {
+			.swiper-container-horizontal>.swiper-scrollbar {
+				top: auto;
+				left: auto;
+				bottom: 70px;
+				right: 30px;
+				width: 100px;
+				height: 2px;
+				transform: translateY(0);
+			}
+	
+			.swiper-navs {
+				left: auto;
+				top: auto;
+				bottom: 30px;
+				right: 115px;
+				margin: 0;
+			}
+		}
+	
+		.slider-element .slider-product-desc {
+			position: absolute;
+			top: auto;
+			bottom: 0;
+			left: auto;
+			right: 0;
+			width: 65%;
+			z-index: 2;
+			overflow: hidden;
+		}
+	
+		.slider-element .slider-product-desc a .icon-play {
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			z-index: 99;
+			color: #000;
+			font-size: 20px;
+			width: 40px;
+			height: 40px;
+			line-height: 40px;
+			background-color: #FFF;
+			border-radius: 50%;
+			text-align: center;
+			padding-left: 4px;
+			margin-top: -20px;
+			margin-left: -20px;
+			-webkit-transition: transform .3s ease;
+			-o-transition: transform .3s ease;
+			transition: transform .3s ease;
+		}
+	
+		.slider-element .slider-product-desc a:hover .icon-play {
+			-webkit-transform: scale(1.1);
+			-ms-transform: scale(1.1);
+			-o-transform: scale(1.1);
+			transform: scale(1.1);
+		}
+	
+		.blurred-box:after{
+			content: '';
+			width: 130%;
+			height: 130%;
+			background: inherit;
+			position: absolute;
+			left: -25px;
+			top: -25px;
+			background-color: rgba(255,255,255,0.2);
+			-webkit-filter: blur(20px);
+			-o-filter: blur(20px);
+			filter: blur(20px);
+		}
+	
+		@media (max-width: 576px) {
+			.swiper-container-horizontal>.swiper-scrollbar { display: none; }
+			.swiper-navs { right: 0px; }
+		}
+	
+		</style>
 
 	<!-- Document Title
 	============================================= -->
@@ -35,7 +204,7 @@
 
 		<!-- Header
 		============================================= -->
-		<header id="header" class="full-header transparent-header" data-sticky-class="not-dark">
+		<header id="header" class="full-header" data-sticky-class="not-dark">
 			<div id="header-wrap">
 				<div class="container">
 					<div class="header-row">
@@ -64,7 +233,8 @@
 			</div>
 		</header><!-- #header end -->
 
-		
+		{{ if .IsHome }}{{- partial "slider.html" . -}}{{ end }}
+				
 
 		<!-- Content
 		============================================= -->
