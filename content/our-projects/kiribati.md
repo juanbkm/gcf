@@ -2,6 +2,9 @@
 title: "Kiribati"
 date: 2020-06-09T23:31:53+08:00
 header: section-kiribati.jpg
+project_image:
+project_image_thumb: kiribati-th.jpg
+project_image_alt: image
 project_name: South Tarawa Water Supply Project in Kiribati
 approval_date: 20 October 2018
 project_cost: $61.83M
@@ -23,6 +26,7 @@ impact:
 references:
   - link: https://www.adb.org/projects/49453-002/main
     name: "Kiribati: South Tarawa Water Supply Project"
+weight: 10
 draft: false
 ---
 

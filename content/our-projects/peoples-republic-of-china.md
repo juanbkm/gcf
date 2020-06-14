@@ -2,6 +2,9 @@
 title: "People's Republic of China (PRC)"
 date: 2020-06-09T22:40:45+08:00
 header: section-prc.jpg
+project_image:
+project_image_thumb: prc-th.jpg
+project_image_alt: image
 project_name: Catalyzing Climate Finance (Shandong Green Development Fund) Program in the People’s Republic of China 
 approval_date: 14 November 2019
 project_cost: $1.5 B
@@ -27,6 +30,7 @@ impact:
 references:
   - link: https://www.adb.org/projects/51194-001/main
     name: "China, People's Republic of: Shandong Green Development Fund Project"
+weight: 7
 draft: false
 ---
 

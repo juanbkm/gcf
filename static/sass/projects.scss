@@ -1,0 +1,54 @@
+
+.gcf-sidebar {
+  h4 {
+    color: $adb-gray-one;
+    font-weight: 200;
+    margin: 0;
+    text-transform: uppercase;
+    strong {
+      //color: $adb-accent-green;
+    }
+  }
+  ul {
+    margin-left: 20px;
+    li {
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+    }
+  }
+  .gcf-cost {
+    color: $adb-accent-green;
+    font-weight: 100;
+    font-size: 3rem;
+    line-height: 1 !important;
+  }
+
+  .gcf-date {
+    color: $adb-accent-green;
+    font-weight: 100;
+    font-size: 3rem;
+    line-height: 1 !important;
+  }
+}
+
+.gcf-content {
+  h2 {
+    color: $adb-gray-one;
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0 0 2rem 0;
+  }
+  h4 {
+    color: $adb-gray-one;
+    font-weight: 200;
+    margin: 0;
+    text-transform: uppercase;
+    strong {
+      //color: $adb-accent-green;
+    }
+  }
+  .gcf-project-image {
+    margin: 0 0 2rem 0;
+  } 
+}

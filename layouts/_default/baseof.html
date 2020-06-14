@@ -196,11 +196,13 @@
 
 </head>
 
-<body class="stretched">
+<body class="stretched page-transition">
 
 	<!-- Document Wrapper
 	============================================= -->
 	<div id="wrapper" class="clearfix">
+		{{ if .IsHome }}{{- partial "slider.html" . -}}{{ end }}
+
 
 		<!-- Header
 		============================================= -->
@@ -233,14 +235,14 @@
 			</div>
 		</header><!-- #header end -->
 
-		{{ if .IsHome }}{{- partial "slider.html" . -}}{{ end }}
+		{{ if not .IsHome }}{{- partial "page-title.html" . -}}{{ end }}
+		{{ if not .IsHome }}{{- partial "pager.html" . -}}{{ end }}
 				
 
 		<!-- Content
 		============================================= -->
 		<section id="content">
 			<div class="content-wrap">
-				{{ if not .IsHome }}{{- partial "page-title.html" . -}}{{ end }}
 				{{ block "main" . }}
 
 				<!-- The part of the page that begins to differ between templates -->

@@ -2,15 +2,20 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-7 gcf-content">
+            <h4 class="gcf-project-name">Official <strong>Project Name</strong></h4>
+            <h2>{{ .Params.project_name }}</h2>
+            <div class="gcf-project-image">
+                <img src="./images/{{ .Params.project_image_thumb }}" alt="{{ .Params.project_image_alt }}">
+            </div>
             {{ .Content }}
         </div>
-        <div class="col-md-4">
-            <h4>Total Project Cost</h4>
-            <p>{{ .Params.project_cost }}</p>
+        <div class="col-md-4 offset-md-1 gcf-sidebar">
+            <h4>Total <strong>Project Cost</strong></h4>
+            <p class="gcf-cost">{{ .Params.project_cost }}</p>
 
-            <h4>GCF Approval Date</h4>
-            <p>{{ .Params.approval_date }}</p>
+            <h4>GCF <strong>Approval Date</strong></h4>
+            <p class="gcf-date">{{ .Params.approval_date }}</p>
 
             <h4>Financing </h4>
             <ul class="dr-funding">
@@ -18,8 +23,14 @@
             </ul>
 
             <h4>Potential Impact</h4>
-            <ul class="dr-funding">
+            <ul class="">
                 {{ range .Params.impact }}<li>{{ .item }}</li>{{ end }}
+            </ul>
+
+            {{ $ref := .Params.references }}
+            <h4>{{ cond (eq (len $ref) 1) "Reference" "References" }}</h4>
+            <ul class="">
+                {{ range .Params.references }}<li><a href="{{ .link }}" target="_blank">{{ .name }}</a></li>{{ end }}
             </ul>
         </div>
     </div>

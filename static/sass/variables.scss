@@ -445,11 +445,11 @@ $page-title-padding:					4rem;
 $page-title-parallax-padding:			$page-title-padding * 1.5625;
 $page-title-mini-padding:				20px;
 
-$page-title-bg:							darken($body-bg, 3.92%);
-$page-title-bg-dark:					$page-title-base-color;
+$page-title-bg:							$adb-accent-green; //darken($body-bg, 3.92%)
+$page-title-bg-dark:					#fff; //$page-title-base-color
 $page-title-color:						$page-title-base-color;
 
-$page-title-size:						2rem;
+$page-title-size:						3rem;
 $page-title-subtitle-size:				18px;
 
 $page-title-parallax-font-size:			40px;

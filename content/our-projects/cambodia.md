@@ -2,6 +2,9 @@
 title: "Cambodia"
 date: 2020-06-09T02:09:18+08:00
 header: section-cambodia.jpg
+project_image:
+project_image_thumb: cambodia-th.jpg
+project_image_alt: image
 project_name: Climate-Friendly Agribusiness Value Chains Sector Project in Cambodia
 approval_date: 1 March 2018
 project_cost: $141.04 M
@@ -23,6 +26,7 @@ impact:
 references:
   - link: https://www.adb.org/projects/48409-002/main
     name: "Cambodia: Climate-Friendly Agribusiness Value Chains Sector Project"
+weight: 5
 draft: false
 ---
 

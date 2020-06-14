@@ -2,6 +2,9 @@
 title: "Tajikistan"
 date: 2020-06-09T01:52:24+08:00
 header: section-tajikistan.jpg
+project_image:
+project_image_thumb: tajikistan-th.jpg
+project_image_alt: image
 project_name: "Institutional Development of the State Agency for Hydrometeorology in Tajikistan [ADB: Water Resources Management in the Pyanj River Basin Project]"
 approval_date: 1 March 2018
 project_cost: $12.785715 M
@@ -22,6 +25,7 @@ impact:
 references:
   - link: https://www.adb.org/projects/47181-003/main
     name: "Tajikistan: Water Resources Management in the Pyanj River Basin Project (Additional Finance)"
+weight: 4
 draft: false
 ---
 

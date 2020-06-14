@@ -59,8 +59,10 @@ body {
 
 a {
 	text-decoration: none !important;
-	color: $theme-color;
-	&:hover { color: #222; }
+	color: $adb-main-blue-one;
+	&:hover { 
+		color: #222;
+	}
 	img { border: none; }
 }
 

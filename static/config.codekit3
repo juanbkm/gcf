@@ -407,6 +407,39 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/images/cambodia-th.jpg": {
+		"ft": 16384,
+		"iS": 73954,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/cambodia-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/cooks-island-th.jpg": {
+		"ft": 16384,
+		"iS": 59053,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/cooks-island-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/fiji-th.jpg": {
+		"ft": 16384,
+		"iS": 46620,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/fiji-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/hero.jpg": {
 		"ft": 16384,
 		"iS": 312232,
@@ -440,14 +473,25 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/kiribati-th.jpg": {
+		"ft": 16384,
+		"iS": 56681,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/kiribati-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/logo.png": {
 		"ft": 32768,
 		"iS": 8155,
 		"oA": 0,
 		"oAP": "/images/logo.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -457,9 +501,53 @@
 		"oA": 0,
 		"oAP": "/images/logo@2x.png",
 		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/mongolia-th.jpg": {
+		"ft": 16384,
+		"iS": 56960,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/mongolia-th.jpg",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
+		"q": 100
+		},
+	"/images/nauru-th.jpg": {
+		"ft": 16384,
+		"iS": 69375,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/nauru-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/pakistan-th.jpg": {
+		"ft": 16384,
+		"iS": 52931,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/pakistan-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/prc-th.jpg": {
+		"ft": 16384,
+		"iS": 64790,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/prc-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/section-cambodia.jpg": {
@@ -567,6 +655,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/section-tonga.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/tajikistan-th.jpg": {
+		"ft": 16384,
+		"iS": 65521,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/tajikistan-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/tonga-th.jpg": {
+		"ft": 16384,
+		"iS": 52867,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/tonga-th.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2192,7 +2302,7 @@
 		"ec": 1,
 		"ft": 4,
 		"ma": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/sass/blog.css",
 		"oF": 0,
 		"oS": 0,
@@ -3861,7 +3971,7 @@
 		"ec": 1,
 		"ft": 4,
 		"ma": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/sass/events.css",
 		"oF": 0,
 		"oS": 0,
@@ -3997,6 +4107,19 @@
 		"oS": 0,
 		"sct": 1
 		},
+	"/sass/projects.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/sass/projects.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
 	"/sass/responsive.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -4017,7 +4140,7 @@
 		"ec": 1,
 		"ft": 4,
 		"ma": 1,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/sass/shop.css",
 		"oF": 0,
 		"oS": 0,

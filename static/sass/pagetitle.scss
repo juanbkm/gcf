@@ -23,7 +23,7 @@ $page_title-prefix: page-title;
 		padding: 0;
 		margin: 0;
 		line-height: 1;
-		font-weight: 600;
+		font-weight: 200;
 		letter-spacing: 1px;
 		color: $page-title-bg-dark;
 		font-size: $page-title-size;
@@ -33,7 +33,7 @@ $page_title-prefix: page-title;
 		display: block;
 		margin-top: 10px;
 		font-weight: 300;
-		color: #777;
+		color: #fff;
 		font-size: $page-title-subtitle-size;
 	}
 }
@@ -49,11 +49,17 @@ $page_title-prefix: page-title;
 	padding: 0 !important;
 	font-size: 90%;
 	transform: translateY(-50%);
-	a { color: #555;
+	a { color: $adb-gray-four;
 		a:hover { color: $theme-color; }
 	}
 
 	i { width: auto !important; }
+
+	.breadcrumb-item {
+			&::before {
+				color: $adb-gray-four;
+			}
+	}
 }
 
 /* Page Title - Dark

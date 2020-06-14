@@ -2,6 +2,9 @@
 title: "Cook Islands"
 date: 2020-06-09T00:31:28+08:00
 header: section-cooks-island.jpg
+project_image:
+project_image_thumb: cooks-island-th.jpg
+project_image_alt: image
 project_name: Renewable Energy Project in the Cook Islands Renewable Energy
 approval_date: 
 project_cost: $ 43.65M
@@ -26,6 +29,7 @@ references:
     name: "Cook Islands: Renewable Energy Sector Project"
   - link: https://www.adb.org/projects/46453-004/main
     name: "Cook Islands: Renewable Energy Sector Project"
+weight: 2
 draft: false
 ---
 

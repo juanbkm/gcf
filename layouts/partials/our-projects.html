@@ -1,0 +1,49 @@
+<section id="section-work" class="page-section topmargin-lg">
+
+  <div class="heading-block center">
+    <h2>Our Projects</h2>
+    <span>Some of the Awesome Projects we've worked on.</span>
+  </div>
+
+  <div class="container">
+
+    <!-- Portfolio Items
+    ============================================= -->
+    <div id="portfolio" class="portfolio row grid-container no-gutters" data-layout="fitRows">
+
+      {{ range (where .Site.RegularPages.ByTitle "Section" "our-projects")  }}
+      <!-- Portfolio Item: Start -->
+      <article class="portfolio-item col-lg-3 col-md-4 col-sm-6 col-12 pf-media pf-icons">
+        <!-- Grid Inner: Start -->
+        <div class="grid-inner">
+          <!-- Image: Start -->
+          <div class="portfolio-image">
+            <a href="{{ .Permalink }}">
+              <img src="./images/{{ .Params.project_image_thumb }}" alt="{{ .Params.project_image_alt }}">
+            </a>
+            <!-- Overlay: Start -->
+            <div class="bg-overlay">
+              <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+                <a href="./images/{{ .Params.project_image_thumb }}" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+                <a href="{{ .Permalink }}" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"><i class="icon-line-ellipsis"></i></a>
+              </div>
+              <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+            </div>
+            <!-- Overlay: End -->
+          </div>
+          <!-- Image: End -->
+          <!-- Decription: Start -->
+          <div class="portfolio-desc">
+            <span>Country: {{ .Params.title }}</span>
+            <h3><a href="{{ .Permalink }}">{{ .Params.project_name }}</a></h3>
+          </div>
+          <!-- Description: Start -->
+        </div>
+        <!-- Grid Inner: End -->
+      </article>
+      <!-- Portfolio Item: End -->
+      {{ end }}
+    </div><!-- #portfolio end -->
+
+  </div>
+</section>

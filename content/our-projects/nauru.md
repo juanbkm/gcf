@@ -2,6 +2,9 @@
 title: "Nauru"
 date: 2020-06-09T01:18:19+08:00
 header: 
+project_image:
+project_image_thumb: nauru-th.jpg
+project_image_alt: image
 project_name: Sustainable and Climate-Resilient Connectivity Project in Nauru
 approval_date: 2 October 2017
 project_cost: $82.738 M
@@ -21,6 +24,7 @@ impact:
 references:
   - link: https://www.adb.org/projects/48480-003/main
     name: "Nauru: Sustainable and Climate-Resilient Connectivity Project (formerly Port Development Project)"
+weight: 3
 draft: false
 ---
 

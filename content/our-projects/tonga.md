@@ -2,6 +2,9 @@
 title: "Tonga"
 date: 2020-06-09T23:17:24+08:00
 header: section-tonga.jpg
+project_image:
+project_image_thumb: tonga-th.jpg
+project_image_alt: image
 project_name: Tonga Renewable Energy Project
 approval_date: 20 October 2018
 project_cost: $53.2 M
@@ -25,6 +28,7 @@ impact:
 references:
   - link: https://www.adb.org/projects/49450-012/main
     name: "Tonga: Renewable Energy Project"
+weight: 9
 draft: false
 ---
 

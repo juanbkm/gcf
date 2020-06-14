@@ -2,6 +2,9 @@
 title: "Pakistan"
 date: 2020-06-09T22:59:05+08:00
 header: section-pakistan.jpg
+project_image:
+project_image_thumb: pakistan-th.jpg
+project_image_alt: image
 project_name: Karachi Bus Rapid Transit Project in Pakistan
 approval_date: 20 October 2018
 project_cost: $572 M
@@ -26,6 +29,7 @@ impact:
 references:
   - link: https://www.adb.org/projects/47279-002/main
     name: "Pakistan: Karachi Bus Rapid Transit Red Line Project"
+weight: 8
 draft: false
 ---
 

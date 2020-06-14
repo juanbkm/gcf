@@ -2,6 +2,9 @@
 title: "Mongolia"
 date: 2020-06-09T02:26:09+08:00
 header: section-mongolia.jpg
+project_image:
+project_image_thumb: mongolia-th.jpg
+project_image_alt: image
 project_name: Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Project in Mongolia
 approval_date: 1 March 2018
 project_cost: $570.1 M
@@ -27,6 +30,7 @@ impact:
 references:
   - link: https://www.adb.org/projects/49169-002/main
     name: "Mongolia: Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project"
+weight: 6
 draft: false
 ---
 

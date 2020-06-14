@@ -2,6 +2,9 @@
 title: "Fiji"
 date: 2020-06-07T10:20:27+08:00
 header: section-fiji.jpg
+project_image:
+project_image_thumb: fiji-th.jpg
+project_image_alt: image
 project_name: Fiji Urban Water Supply and Wastewater Management Project
 approval_date: 5 November 2015
 project_cost: $334.34 M
@@ -20,6 +23,7 @@ impact:
 references:
   - link: https://www.adb.org/projects/49001-002/main
     name: "Fiji: Urban Water Supply and Wastewater Management Investment Program"
+weight: 1
 draft: false
 ---
 

@@ -1,9 +1,9 @@
 <!-- Page Title  -->
-		<section id="page-title" class="page-title-parallax include-header dark min-vh-60" style="background-image: url('./images/{{ .Params.header }}'); padding: 120px 0;" data-bottom-top="background-position:0px 300px;" data-top-bottom="background-position:0px -300px;">
+		<section id="page-title" class="">
 
 			<div class="container clearfix">
-				<h1 data-animate="fadeInUp">{{ .Title }}</h1>
-				<span data-animate="fadeInUp" data-delay="300">{{ .Params.project_name }}</span>
+				<h1 data-animate="fadeInUp" class="">{{ .Title }}</h1>
+				<!-- <span data-animate="fadeInUp" data-delay="300">{{ .Params.project_name }}</span>  -->
 				<ol class="breadcrumb">
           {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
 					{{ define "breadcrumbnav" }}
