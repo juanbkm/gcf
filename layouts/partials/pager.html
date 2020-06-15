@@ -1,13 +1,15 @@
-<div class="container">
-    <div class="row">
-        <div class="gcf-pager">
-            {{ with .NextInSection }}
-            <a href="{{ .Permalink }}" class=""><i class="icon-arrow-left2"></i> {{ .Title }}</a>
-            {{ end }}
+<div class="gcf-pager">
+    <div class="container">
+        <div class="row text-right">
+            <div class="col">
+                {{ with .NextInSection }}
+                <a href="{{ .Permalink }}" class=""><i class="icon-chevron-left"></i> {{ .Title }}</a>
+                {{ end }}
 
-            {{ with .PrevInSection }}
-            <a href="{{ .Permalink }}" class="">{{ .Title }} <i class="icon-arrow-right2"></i></a>
-            {{ end }}
+                {{ with .PrevInSection }}
+                <a href="{{ .Permalink }}" class="">{{ .Title }} <i class="icon-chevron-right"></i></a>
+                {{ end }}
+            </div>
         </div>
     </div>
 </div>

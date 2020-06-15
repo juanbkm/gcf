@@ -440,6 +440,72 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/gcf-portfolio-by-financing.png": {
+		"ft": 32768,
+		"iS": 27820,
+		"oA": 0,
+		"oAP": "/images/gcf-portfolio-by-financing.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/gcf-portfolio-by-target.png": {
+		"ft": 32768,
+		"iS": 39347,
+		"oA": 0,
+		"oAP": "/images/gcf-portfolio-by-target.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/gcf-portfolio-impact-share.png": {
+		"ft": 32768,
+		"iS": 34394,
+		"oA": 0,
+		"oAP": "/images/gcf-portfolio-impact-share.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/gcf-portfolio.png": {
+		"ft": 32768,
+		"iS": 37865,
+		"oA": 0,
+		"oAP": "/images/gcf-portfolio.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/gcf-projects-leverage.png": {
+		"ft": 32768,
+		"iS": 12375,
+		"oA": 0,
+		"oAP": "/images/gcf-projects-leverage.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/gcf-projects.png": {
+		"ft": 32768,
+		"iS": 12043,
+		"oA": 0,
+		"oAP": "/images/gcf-projects.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/hero.jpg": {
 		"ft": 16384,
 		"iS": 312232,
