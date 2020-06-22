@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+
+<div class="container clearfix">
+    <div class="row">
+        <div class="col-md-7">
+            {{ .Content }}
+        </div>
+        <div class="col-md-4 offset-md-1">
+            {{ $data := index .Site.Data }}
+            {{ with $data.timeline }}
+            <h3 id="gcf-tl-hd">{{ .title }}</h3>
+            <section id="conference-timeline">
+                <div class="conference-center-line"></div>
+                <div class="conference-timeline-content">
+                    {{ range .events }}
+                    <!-- Article -->
+                    <div class="timeline-article">
+                    <div class="content-right">
+                        <ul>
+                            {{ range .milestone }}
+                            <li>{{ .item | markdownify }}</li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                    <div class="meta-date">
+                        <div class="meta-date-inner"><span class="year">{{ .year }}</span></div>
+                    </div>
+                    </div>
+                    <!-- // Article -->
+                    {{ end }}
+                </div>
+            </section>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+    
+
+{{ end }}

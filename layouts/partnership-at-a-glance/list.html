@@ -8,14 +8,37 @@
         </div>
     </div>
     {{ $ig := .Params.ig }}
-    {{ range $ig }}
+    
     <div class="row">
-        <div class="col-10 mx-auto mb-5 py-5">
+        {{ with (index $ig 0) }}
+        <div class="col-6 mx-auto mb-5 py-5">
             <h2 class="text-center mb-5 mx-auto">{{ .title | markdownify }}</h2>
             <img src="./images/{{ .src }}" class="mx-auto d-block" alt="">
         </div>
+        {{ end }}
+        {{ with (index $ig 1) }}
+        <div class="col-6 mx-auto mb-5 py-5">
+            <h2 class="text-center mb-5 mx-auto">{{ .title | markdownify }}</h2>
+            <img src="./images/{{ .src }}" class="mx-auto d-block" alt="">
+        </div>
+        {{ end }}
     </div>
-    {{ end }}
+
+    <div class="row">
+        {{ with (index $ig 2) }}
+        <div class="col-6 mx-auto mb-5 py-5">
+            <h2 class="text-center mb-5 mx-auto">{{ .title | markdownify }}</h2>
+            <img src="./images/{{ .src }}" class="mx-auto d-block" alt="">
+        </div>
+        {{ end }}
+        {{ with (index $ig 3) }}
+        <div class="col-6 mx-auto mb-5 py-5">
+            <h2 class="text-center mb-5 mx-auto">{{ .title | markdownify }}</h2>
+            <img src="./images/{{ .src }}" class="mx-auto d-block" alt="">
+        </div>
+        {{ end }}
+    </div>
+    
 </div>
 
     
