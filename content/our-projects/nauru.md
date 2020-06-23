@@ -7,19 +7,19 @@ project_image_thumb: nauru-th.jpg
 project_image_alt: image
 project_name: Sustainable and Climate-Resilient Connectivity Project in Nauru
 approval_date: 2 October 2017
-project_cost: $82.738 M
+project_cost: $82.7 M
 financing:
   - name: ADB
     amount: $24.3 M
   - name: GCF
     amount: $26.91 M
   - name: Government of Australia
-    amount: $14.077 M
+    amount: $14.1 M
   - name: Government
     amount:  $17.451 M
 impact:
-  - item: 535.4k anticipated tonnes of CO2 emissions avoided (10,708 metric tons of carbon dioxide equivalent (tCO2e) per year)
   - item: 11,300 beneficiaries from adaptation
+  - item: 535,400 tCO2e emissions avoided
   - item: 170-meter-long climate-resilient wharf and breakwater constructed
 references:
   - link: https://www.adb.org/projects/48480-003/main

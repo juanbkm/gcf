@@ -5,7 +5,7 @@ header: section-pakistan.jpg
 project_image:
 project_image_thumb: pakistan-th.jpg
 project_image_alt: image
-project_name: Karachi Bus Rapid Transit Project in Pakistan
+project_name: Karachi Bus Rapid Transit Project
 approval_date: 20 October 2018
 project_cost: $572 M
 financing:
@@ -20,9 +20,10 @@ financing:
   - name: Government
     amount: $88 M
 impact:
-  - item: 2.6 million tonnes of CO2 equivalent avoided
+  - item: 2.6 Mt CO2e avoided
+  - item: 1.5 million beneficiaries from adaptation
   - item: 320,000 passengers use the BRT daily
-  - item: The BRT system using CNG hybrid buses avoids at least 77,979 metric tons of GHG emissions (CO2, methane, nitrous oxide, and halocarbons) annually
+  - item: The BRT system using CNG hybrid buses avoids at least 77,979 tons of GHG emissions (CO2, methane, nitrous oxide, and halocarbons) annually 
   - item: 100% of BRT stations and buses score maximum points on the BRT Standard for universal accessibility, and include genderinclusive physical and operational design features
   - item: Mixed-traffic lanes, sidewalks, and streetlights improved; bicycle lanes built; green areas and parking added in various places along the 26.6 km Red Line corridor
   - item: At least 200 bus stops installed along 80 km of off-corridor BRT routes
@@ -32,7 +33,6 @@ references:
 weight: 8
 draft: false
 ---
-
 
 The project will develop a sustainable urban transport system in Karachi, Pakistan’s largest city, economic and financial center, and main seaport, directly benefiting 1.5 million people. It will construct a 30-kilometer fully segregated, state-of-the-art bus rapid transit (BRT) corridor and associated facilities, including sidewalks, access roads, on-street parking, mixed-traffic as well as non-motorized transport lanes, high-capacity drainage, and a BRT depot. 
 

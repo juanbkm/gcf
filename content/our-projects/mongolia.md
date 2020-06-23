@@ -9,11 +9,11 @@ project_name: Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal P
 approval_date: 1 March 2018
 project_cost: $570.1 M
 financing:
-  - name: ADB $80 M
-    amount: [Concessional Ordinary Capital Resources Lending $20 M, OCR $60M]
-  - name: GCF $145 M
-    amount: [Loan - $95M; Grant - $50M]
-  - name: High Level Technology Fund 
+  - name: ADB
+    amount: $80 M
+  - name: GCF
+    amount: $145 M [Loan - $95M; Grant - $50M]
+  - name: ADB High Level Technology Fund 
     amount: $3 M
   - name: Government
     amount: $35 M
@@ -22,7 +22,7 @@ financing:
   - name: Beneficiaries
     amount: $63.9 M
 impact:
-  - item: 7.9M anticipated tonnes of CO2 emissions avoided
+  - item: 7.9 Mt CO2e avoided
   - item: 350,000 beneficiaries
   - item: 10,000 green housing units that are energy efficient, affordable, and designed to maximize the use of renewable energy.
   - item:	100 hectares of ger areas will be redeveloped into eco-districts that are both low-carbon and climate resilient as part of the project. 

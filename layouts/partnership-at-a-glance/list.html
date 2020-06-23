@@ -1,24 +1,26 @@
 {{ define "main" }}
 
 
-<div class="container clearfix">
+<div class="container clearfix gcf-partnerships">
     <div class="row">
         <div class="col">
-            <div class="lead text-center mb-5 mx-auto" style="max-width: 800px;">{{ .Content }}</div>
+            <div class="lead text-center mx-auto" style="max-width: 800px;">{{ .Content }}</div>
         </div>
     </div>
     {{ $ig := .Params.ig }}
     
     <div class="row">
         {{ with (index $ig 0) }}
-        <div class="col-6 mx-auto mb-5 py-5">
-            <h2 class="text-center mb-5 mx-auto">{{ .title | markdownify }}</h2>
+        <div class="col-6 mx-auto mb-5 p-5">
+            <h2 class="text-center mx-auto">{{ .title | markdownify }}</h2>
+            <h3 class="text-center mx-auto">{{ .subtitle | markdownify }}</h3>
             <img src="./images/{{ .src }}" class="mx-auto d-block" alt="">
         </div>
         {{ end }}
         {{ with (index $ig 1) }}
-        <div class="col-6 mx-auto mb-5 py-5">
-            <h2 class="text-center mb-5 mx-auto">{{ .title | markdownify }}</h2>
+        <div class="col-6 mx-auto mb-5 p-5">
+            <h2 class="text-center mx-auto">{{ .title | markdownify }}</h2>
+            <h3 class="text-center mx-auto">{{ .subtitle | markdownify }}</h3>
             <img src="./images/{{ .src }}" class="mx-auto d-block" alt="">
         </div>
         {{ end }}
@@ -26,19 +28,37 @@
 
     <div class="row">
         {{ with (index $ig 2) }}
-        <div class="col-6 mx-auto mb-5 py-5">
-            <h2 class="text-center mb-5 mx-auto">{{ .title | markdownify }}</h2>
+        <div class="col-6 mx-auto mb-5 p-5">
+            <h2 class="text-center mx-auto">{{ .title | markdownify }}</h2>
+            <h3 class="text-center mx-auto">{{ .subtitle | markdownify }}</h3>
             <img src="./images/{{ .src }}" class="mx-auto d-block" alt="">
         </div>
         {{ end }}
         {{ with (index $ig 3) }}
-        <div class="col-6 mx-auto mb-5 py-5">
-            <h2 class="text-center mb-5 mx-auto">{{ .title | markdownify }}</h2>
+        <div class="col-6 mx-auto mb-5 p-5">
+            <h2 class="text-center mx-auto">{{ .title | markdownify }}</h2>
+            <h3 class="text-center mx-auto">{{ .subtitle | markdownify }}</h3>        
             <img src="./images/{{ .src }}" class="mx-auto d-block" alt="">
         </div>
         {{ end }}
     </div>
     
+    <div class="row">
+        {{ with (index $ig 4) }}
+        <div class="col-6 mx-auto mb-5 p-5">
+            <h2 class="text-center mx-auto">{{ .title | markdownify }}</h2>
+            <h3 class="text-center mx-auto">{{ .subtitle | markdownify }}</h3>
+            <img src="./images/{{ .src }}" class="mx-auto d-block" alt="">
+        </div>
+        {{ end }}
+        {{ with (index $ig 5) }}
+        <div class="col-6 mx-auto mb-5 p-5">
+            <h2 class="text-center mx-auto">{{ .title | markdownify }}</h2>
+            <h3 class="text-center mx-auto">{{ .subtitle | markdownify }}</h3>
+            <img src="./images/{{ .src }}" class="mx-auto d-block" alt="">
+        </div>
+        {{ end }}
+    </div>
 </div>
 
     

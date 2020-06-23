@@ -5,24 +5,24 @@ header: section-kiribati.jpg
 project_image:
 project_image_thumb: kiribati-th.jpg
 project_image_alt: image
-project_name: South Tarawa Water Supply Project in Kiribati
+project_name: South Tarawa Water Supply Project
 approval_date: 20 October 2018
 project_cost: $61.83M
 financing:
   - name: ADB 
     amount: $13 M
   - name: GCF
-    amount: $28.63 M
+    amount: $28.63 M (Grant)
   - name: World Bank
     amount: $12.96 M
   - name: Government
     amount: $7.24 M
 impact:
   - item: 62,298 beneficiaries;
-  - item: 4,471 tCO2eq per year;
+  - item: 89,400 tCO2e per year; 
   - item: 2.5 MW of solar PV
   - item: At least 95% of South Tarawa’s population (51.5% of them women) has access to safe, climate-resilient water supplies
-  - item: 4,000m3/day desalination capacity is installed
+  - item: 4,000cbm/day desalination capacity is installed
 references:
   - link: https://www.adb.org/projects/49453-002/main
     name: "Kiribati: South Tarawa Water Supply Project"
@@ -32,8 +32,11 @@ draft: false
 
 
 The project will address both adaptation and mitigation objectives by building a 4,000 cubic-meter-per-day reverse osmosis seawater desalination plant, to provide South Tarawa with a reliable, climate-resilient source of fresh water. The project will also renovate and expand the reticulated water network to reduce leakages and ensure access to the new clean-water source. Through the project, a photovoltaic power plant will be constructed to offset the GHG emissions from the desalination plant and the increased water treatment and distribution.
+
 Kiribati is one of the most remote and least developed countries in the world. The country faces significant challenges because of its exposure to climate change, geographic disadvantage, dependence on imports, and reliance on revenue from overseas sources.
+
 South Tarawa’s water supply, in particular, depends entirely on underground freshwater lenses, which are seriously threatened by climate change–induced flooding and prolonged drought. A large majority of households on the island boil water to make it fit for human consumption. If not controlled, the use of kerosene to boil water will result in 107,409 tons of CO2 emissions between 2018 and 2041. Daily pumping of water from the Bonriki and Buota lenses, on the other hand, uses 5.34 gigawatt-hours of electricity and will result in 3,914 tons of CO2 emissions over 20 years.
+
 The entire population of Tarawa—currently about 53% of Kiribati’s population—will benefit directly from the project. Without it, there will be more water shortages as the population grows, and there will be less water of consistently good quality for the most vulnerable people and communities. CO2 emissions are expected to decrease by 111,323 metric tons over the 20-year period as water pumping is reduced and the country moves away from diesel generation.
 
 ### Paradigm Shift Potential

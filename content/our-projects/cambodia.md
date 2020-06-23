@@ -18,9 +18,9 @@ financing:
   - name: Beneficiaries
     amount: $3.664 M
 impact:
-  - item: 240,000 tonnes of CO2 avoided
   - item: 1.365M beneficiaries
-  - item: 40,000 farmers (16,000 women) trained in climate-smart agriculture
+  - item: 240,000 tCO2e avoided
+  - item: 40,000 farmers (of which 16,000 women) trained in climate-smart agriculture
   - item: 50 agribusinesses become more resource-efficient in terms of water savings, energy, and reduction in postharvest losses 
   - item: 27 irrigation and water management systems targeting 15,000 ha and 25,000 households (with at least 50,000 women) rehabilitated and made climate-resilient 
 references:
@@ -29,7 +29,6 @@ references:
 weight: 5
 draft: false
 ---
-
 
 The project, part of a regional ADB program that also includes the Lao People’s Democratic Republic and Myanmar, was approved for GCF cofinancing in February 2018. It is intended to reduce climate-change vulnerability and greenhouse-gas (GHG) emissions at each stage of agricultural value chains in the rice, maize, cassava, and mango industries, and increase crop resilience and productivity, as well as agricultural competitiveness and household incomes in the project areas.
 
@@ -50,7 +49,5 @@ In addition, the project could catalyze long-term investment in emission reducti
 Transformative impact will be achieved through the adoption of policies and standards that will enable investments in climate-smart agribusinesses, technologies promoting CSA and information and communication technologies, and crop-centric public–private partnerships, and through an increase in institutional capacity to support climate-resilient agriculture and maintain climate-proof infrastructure.
 
 This project expects to contribute to large-scale transformative impacts with the use of up to date technologies with a high potential for leap-frogging, including for example, mechanization, CSA and elements of precision farming, laser land levelling and the use of information technology to upscale the delivery of climate and market information services. In selecting and deploying such technologies, the project will carefully assess lessons learned from previous projects. The quality of technologies will be ensured through use of certified companies and/or products. 
-
 The project will also leverage stakeholder behavioural change of communities and the private sector through the introduction of new financial and risk sharing mechanisms such as green financing or crop insurance, as well as through awareness raising. 
-
 

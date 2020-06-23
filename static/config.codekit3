@@ -464,9 +464,20 @@
 		},
 	"/images/gcf-portfolio-by-target.png": {
 		"ft": 32768,
-		"iS": 39347,
+		"iS": 22642,
 		"oA": 0,
 		"oAP": "/images/gcf-portfolio-by-target.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/gcf-portfolio-impact-areas.png": {
+		"ft": 32768,
+		"iS": 23080,
+		"oA": 0,
+		"oAP": "/images/gcf-portfolio-impact-areas.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -497,7 +508,7 @@
 		},
 	"/images/gcf-projects-leverage.png": {
 		"ft": 32768,
-		"iS": 12375,
+		"iS": 10864,
 		"oA": 0,
 		"oAP": "/images/gcf-projects-leverage.png",
 		"oF": 0,
@@ -4167,6 +4178,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/sass/paginations.css",
+		"oF": 0,
+		"oS": 0,
+		"sct": 1
+		},
+	"/sass/partnerships.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/sass/partnerships.css",
 		"oF": 0,
 		"oS": 0,
 		"sct": 1
