@@ -407,6 +407,28 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/images/adb-gcf.png": {
+		"ft": 32768,
+		"iS": 26168,
+		"oA": 0,
+		"oAP": "/images/adb-gcf.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/bg-paradigm.jpg": {
+		"ft": 16384,
+		"iS": 909633,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/bg-paradigm.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/cambodia-th.jpg": {
 		"ft": 16384,
 		"iS": 73954,
