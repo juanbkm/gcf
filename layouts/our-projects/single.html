@@ -22,11 +22,22 @@
                 {{ range .Params.financing }}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
             </ul>
 
-            <h4>Potential Impact</h4>
+            {{ with .Params.impact }}<h4>Potential Impact</h4>{{ end }}
             <ul class="">
                 {{ range .Params.impact }}<li>{{ .item }}</li>{{ end }}
             </ul>
 
+            {{ with .Params.expectedimpact }}<h4>Expected Impacts</h4>{{ end }}
+            <h5>Overall Programme</h5>
+            <ul class="">
+                {{ range .Params.programme }}<li>{{ .item }}</li>{{ end }}
+            </ul>
+
+            <h5>Cook Islands sub-project</h5>
+            <ul class="">
+                {{ range .Params.subproject }}<li>{{ .item }}</li>{{ end }}
+            </ul>
+            
             {{ $ref := .Params.references }}
             <h4>{{ cond (eq (len $ref) 1) "Reference" "References" }}</h4>
             <ul class="">

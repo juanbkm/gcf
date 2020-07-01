@@ -3,6 +3,7 @@ title: "ADB and the GCF"
 date: 2020-06-06T18:13:52+08:00
 draft: false
 ---
+{{< dr-artimage src="images/adb-gcf.jpg" align="" alt="" caption="" >}}
 
 Climate change is an urgent, wide-ranging global issue that needs to be further embedded in the work of all development partners. Asia and the Pacific is bearing the brunt of the world’s worst climate-related disasters. At the same time, the trajectory of its infrastructure investments could lead to significant increases in global greenhouse gas emissions. [ADB’s Strategy 2030](https://www.adb.org/about/strategy-2030-operational-priorities) makes ramping up efforts to address climate change, disaster risks, and environmental degradation, all while helping its developing member countries (DMCs) mitigate, and adapt to, climate change effects one of its focus areas.
 

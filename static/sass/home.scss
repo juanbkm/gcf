@@ -1,0 +1,61 @@
+.gcf-highlight {
+  color: #fff !important;
+  background-image: linear-gradient(to right,transparent 50%,rgba(141,198,63,0.5) 50%); /* Adjust the highlight color */
+  background-size: 200% 25%; /* Adjust height on highlight */
+  background-repeat: repeat-x;
+  background-position: -100% 100%;
+  padding-left: 8px; /* Adjust left padding on highlight */
+  padding-right: 8px; /* Adjust right padding on highlight */
+}
+.slider-caption p {
+  font-family: 300;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 2rem;
+}
+
+#section-paradigm {
+  color: #fff;
+  strong {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 200;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    span {
+      background-image: linear-gradient(to right,transparent 50%,rgba(242,230,0,0.5) 50%); /* Adjust the highlight color */
+      background-size: 200% 25%; /* Adjust height on highlight */
+      background-repeat: repeat-x;
+      background-position: -100% 100%;
+      padding-left: 8px; /* Adjust left padding on highlight */
+      padding-right: 8px; /* Adjust right padding on highlight */
+    }
+    
+  }
+}
+
+#fast-facts {
+  background-color: $adb-main-blue-one;
+  
+  h3 {
+    color: #fff;
+    display: block;
+    font-size: 3rem;
+    font-weight: 200;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    
+  }
+}
+
+#icn-projects,
+#icn-beneficiaries,
+#icn-financing,
+#icn-co2 {
+  display: block;
+  height: 88px;
+  width: 88px;
+  margin: 20px auto;
+}
