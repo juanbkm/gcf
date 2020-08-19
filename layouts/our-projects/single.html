@@ -17,17 +17,24 @@
             <h4>GCF <strong>Approval Date</strong></h4>
             <p class="gcf-date">{{ .Params.approval_date }}</p>
 
+            {{ with .Params.adb_approval_date }}
+            <h4>ADB <strong>Approval Date</strong></h4>
+            <p class="gcf-date">{{ . }}</p>
+            {{ end }}
+
             <h4>Financing </h4>
             <ul class="dr-funding">
-                {{ range .Params.financing }}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
+                {{ range .Params.financing }}<li>{{ .name | markdownify }} <strong>{{ .amount | markdownify }}</strong></li>{{ end }}
             </ul>
 
-            {{ with .Params.impact }}<h4>Potential Impact</h4>{{ end }}
+            {{ with .Params.impact }}<h4>Expected Impact</h4>{{ end }}
             <ul class="">
-                {{ range .Params.impact }}<li>{{ .item }}</li>{{ end }}
+                {{ range .Params.impact }}<li>{{ .item | markdownify }}</li>{{ end }}
             </ul>
 
-            {{ with .Params.expectedimpact }}<h4>Expected Impacts</h4>{{ end }}
+
+            {{ if isset .Params "expectedimpact" }}
+            <h4>Expected Impact</h4>
             <h5>Overall Programme</h5>
             <ul class="">
                 {{ range .Params.programme }}<li>{{ .item }}</li>{{ end }}
@@ -37,6 +44,7 @@
             <ul class="">
                 {{ range .Params.subproject }}<li>{{ .item }}</li>{{ end }}
             </ul>
+            {{ end }}            
             
             {{ $ref := .Params.references }}
             <h4>{{ cond (eq (len $ref) 1) "Reference" "References" }}</h4>

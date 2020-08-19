@@ -6,7 +6,8 @@ project_image:
 project_image_thumb: kiribati-th.jpg
 project_image_alt: image
 project_name: South Tarawa Water Supply Project
-approval_date: 20 October 2018
+approval_date: October 2018
+adb_approval_date: August 2019
 project_cost: $61.83M
 financing:
   - name: ADB 
@@ -19,10 +20,10 @@ financing:
     amount: $7.24 M
 impact:
   - item: 62,298 beneficiaries;
-  - item: 89,400 tCO2e per year; 
+  - item: 89,400 tCO<sub>2</sub>e per year; 
   - item: 2.5 MW of solar PV
   - item: At least 95% of South Tarawa’s population (51.5% of them women) has access to safe, climate-resilient water supplies
-  - item: 4,000cbm/day desalination capacity is installed
+  - item: 6,000cbm/day desalination capacity is installed
 references:
   - link: https://www.adb.org/projects/49453-002/main
     name: "Kiribati: South Tarawa Water Supply Project"
@@ -30,13 +31,9 @@ weight: 10
 draft: false
 ---
 
-
-The project will address both adaptation and mitigation objectives by building a 4,000 cubic-meter-per-day reverse osmosis seawater desalination plant, to provide South Tarawa with a reliable, climate-resilient source of fresh water. The project will also renovate and expand the reticulated water network to reduce leakages and ensure access to the new clean-water source. Through the project, a photovoltaic power plant will be constructed to offset the GHG emissions from the desalination plant and the increased water treatment and distribution.
-
 Kiribati is one of the most remote and least developed countries in the world. The country faces significant challenges because of its exposure to climate change, geographic disadvantage, dependence on imports, and reliance on revenue from overseas sources.
-
 South Tarawa’s water supply, in particular, depends entirely on underground freshwater lenses, which are seriously threatened by climate change–induced flooding and prolonged drought. A large majority of households on the island boil water to make it fit for human consumption. If not controlled, the use of kerosene to boil water will result in 107,409 tons of CO2 emissions between 2018 and 2041. Daily pumping of water from the Bonriki and Buota lenses, on the other hand, uses 5.34 gigawatt-hours of electricity and will result in 3,914 tons of CO2 emissions over 20 years.
-
+The project will address both adaptation and mitigation objectives by building a 6,000 cubic-meter-per-day reverse osmosis seawater desalination plant, to provide South Tarawa with a reliable, climate-resilient source of fresh water. The project will also renovate and expand the reticulated water network to reduce leakages and ensure access to the new clean-water source. A photovoltaic power plant will also be constructed to offset the GHG emissions from the desalination plant and the increased water treatment and distribution.
 The entire population of Tarawa—currently about 53% of Kiribati’s population—will benefit directly from the project. Without it, there will be more water shortages as the population grows, and there will be less water of consistently good quality for the most vulnerable people and communities. CO2 emissions are expected to decrease by 111,323 metric tons over the 20-year period as water pumping is reduced and the country moves away from diesel generation.
 
 ### Paradigm Shift Potential
@@ -47,6 +44,6 @@ Many atolls are remote. Remote atolls often have limited locally available gover
 
 Hence, the solutions being developed under this project for Kiribati should be applicable and replicable to almost all remote atolls throughout the world that have a sizeable or growing population density. 
 
-Desalination technology also has a very high potential for replication and scale-up in the Pacific in particular. About half of the countries in the Pacific islands region are reliant on the ground water found in thin freshwater lenses for a large percentage of their freshwater needs. Further, some studies indicate that the first impact of sea-level rise that will make Pacific islands uninhabitable is the destruction of the groundwater lenses. Hence, determining alternative water supplies that are sustainable and climate resilient in the small island context  is key to increasing the adaptive capacity of many Pacific islands. The Government of Kiribati has already expressed an interest in exploring development partner support for climate-resilient water supply infrastructure –potentially involving desalination technology - for the remote outer islands, and it is anticipated that other Pacific Islands will become increasingly interested in pursuing the technology given anticipated climate change impacts on water resources. 
+Desalination technology also has a very high potential for replication and scale-up in the Pacific in particular. About half of the countries in the Pacific islands region are reliant on the ground water found in thin freshwater lenses for a large percentage of their freshwater needs. Further, some studies indicate that the first impact of sea-level rise that will make Pacific islands uninhabitable is the destruction of the groundwater lenses. Hence, determining alternative water supplies that are sustainable and climate resilient in the small island context  is key to increasing the adaptive capacity of many Pacific islands. The Government of Kiribati has already expressed an interest in exploring development partner support for climate-resilient water supply infrastructure –potentially involving desalination technology - for the remote outer islands, and it is anticipated that other Pacific Islands will become increasingly interested in pursuing the technology given anticipated climate change impacts on water resources.
 
 There are almost no known water sector interventions to-date in the Pacific (or more broadly in ADB’s developing member countries) which have involved renewable energy offset at a significant scale (with the exception of wastewater treatment projects involving the production of biogas and its conversion to electricity). The inclusion of renewable energy targets in policy formulation suggests there will continue to be a growing demand for renewable energy across the region, and it is highly relevant in islands which rely largely on imported fossil fuel for energy generation.

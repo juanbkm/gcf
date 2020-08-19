@@ -6,11 +6,14 @@ project_image:
 project_image_thumb: fiji-th.jpg
 project_image_alt: image
 project_name: Fiji Urban Water Supply and Wastewater Management Project
-approval_date: 5 November 2015
-project_cost: $334.34 M
+approval_date: November 2015
+adb_approval_date: December 2016
+project_cost: $405.1 M
 financing:
   - name: ADB
     amount: $153.2 M
+  - name: EIB
+    amount: $70.8 M
   - name: GCF
     amount: $31.04 M (grant)
   - name: Government
@@ -26,25 +29,23 @@ references:
 weight: 1
 draft: false
 ---
-
 The project was ADB’s first GCF project, approved in November 2015, and was among the first group of projects to be approved by the GCF board.
 
-Costing $334 million in total, this 7-year project will build infrastructure, using energy-efficient technologies, to make safe water and sewerage services more accessible within the greater Suva area; replace water meters to reduce nonrevenue water, estimated at 46% by the Water Authority of Fiji (WAF), the project implementing agency; and provide policy and regulatory support to improve the management of the water and sewerage sector and the sustainability of service delivery. Around 300,000 people—30% of the population of the service area in 2018—are seen to benefit directly or indirectly from the project.
+Costing $405.1 million in total, this 9-year project will build infrastructure to make safe water and sewerage services more accessible within the Greater Suva Area; replace water meters to reduce nonrevenue water, estimated near 50% by the Water Authority of Fiji (WAF), the project implementing agency; and provide policy and regulatory support to improve the management of the water and sewerage sector and the sustainability of service delivery. Around 290,000 people—32% of the population of the service area in 2018—are seen to benefit directly or indirectly from the project.
 
-A little more than half of Fiji’s population is urban. This proportion is foreseen to increase to about 66% by 2030. But despite being assigned priority in national development plans, urban infrastructure and services have not kept pace, worsening urban sprawl and environmental degradation. Extreme drought and flooding, as well as rising sea levels, have made it more costly for the government to provide the services.
+A little more than half of Fiji’s population is urban. This proportion is foreseen to increase to about 61% by 2030. Despite being assigned priority in national development plans, urban infrastructure and services have not kept pace, worsening urban sprawl and environmental degradation. Extreme drought and flooding, as well as rising sea levels, have made it more costly for the government to provide urban services.
 
-The project is designed to answer these service access and sustainability needs. For improved water resource and supply resilience, intake structures will be located higher in the catchment area, away from possible saltwater intrusion as sea levels rise, as well as from reductions in river flows caused by drought. The water supply system will also gain flexibility to accommodate increases in water demand and changes in supply source yield.
+The project is designed to answer these service access and sustainability needs. For improved water resource and supply resilience, a new intake structures will be constructed higher in the catchment area and on a larger river system than the current intake. The new intake location reduces the risk of saltwater intrusion as sea levels rise, as well as from reductions in river flows caused by drought. The water supply system will also gain flexibility to accommodate increases in water demand and changes in supply source yield.
+Upgraded wastewater treatment infrastructure and a wider sewerage network will enable more households to be served, while reducing pollution loads on receiving waters.
 
-New or upgraded wastewater treatment infrastructure and a wider sewerage network will enable more households to be served, besides enhancing water quality in receiving waters and reducing pollution.
+The project will support programs for nonrevenue water reduction, water demand management, liquid trade waste management, as well as capacity building and institutional strengthening for WAF.
 
-Programs for managing water demand and liquid trade waste will be implemented, with support from the project. The WAF will undergo institutional strengthening and will be assisted in drafting a decentralization strategy to reduce the number of sewer pumping stations and increase the efficiency of the stations that remain.
+Reliable and sustainable long term operations and maintenance practices will be enhanced through a Design-Build-Operate (DBO) contracting arrangement.
 
-The project will also bring design–build–operate contracts into use for major infrastructure investments in Fiji. By ensuring that the proposed technologies take operation and maintenance (O&M) cost into account, such contracts will encourage a shift from inefficient conventional designs and methods toward more energy-efficient technologies.
-
-The project counts on a combination of loans (a total of about $105 million from ADB and the European Investment Bank) and grant financing ($31 million from the GCF), allowing this small island developing state to institute key adaptation measures without sacrificing other high-priority development needs or sinking too deeply into debt.
+The project counts on a combination of loans (an estimated $153.2 million from ADB and $70.8 million from the European Investment Bank) and grant financing ($31 million from the GCF), allowing this small island developing state to institute key adaptation measures without sacrificing other high-priority development needs.
 
 ### Paradigm Shift Potential
 
-It is critical that climate change mitigation and adaptation measures are integrated into  normal operating procedures particularly in any new water and sewerage infrastructure investments. Successful and measurable demonstration of these proposed climate investments will have a genuine potential to drive a social change initiative within Water Authority of Fiji (WAF), government and relevant sector agencies to use this as a basis for future strategic planning and decision-making in water and wastewater sector investments. Through this project, WAF will acquire knowledge and experience in developing long-term investment strategies that integrate adaptation and mitigation considerations. These practices can then be replicated in other urban centers around the country such as Nadi, Lautoka and Lambasa. 
+It is critical that climate change mitigation and adaptation measures are integrated into normal operating procedures particularly in any new water and sewerage infrastructure investments. Successful and measurable demonstration of these proposed climate investments will have a genuine potential to drive a social change initiative within Water Authority of Fiji (WAF), government and relevant sector agencies to use this as a basis for future strategic planning and decision-making in water and wastewater sector investments. Through this project, WAF will acquire knowledge and experience in developing long-term investment strategies that integrate adaptation and mitigation considerations. These practices can then be replicated in other urban centers around the country such as Nadi, Lautoka and Lambasa.
 
-Fiji is at the forefront of the Pacific Island countries in experience in water and wastewater management, and lessons can be shared at the Pacific Water Association, of which Fiji is an active member. This will enhance the replication of the best practices in urban areas in the Pacific with similar geophysical characteristics, economic fragility, limited technical capacities and climate vulnerabilities.
+Fiji is at the forefront of the Pacific Island countries in experience in water and wastewater management, and lessons can be shared at the Pacific Water and Wastewater Association, of which Fiji is an active member. This will enhance the replication of the best practices in urban areas in the Pacific with similar geophysical characteristics, economic fragility, limited technical capacities and climate vulnerabilities.
