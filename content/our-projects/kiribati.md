@@ -8,16 +8,8 @@ project_image_alt: image
 project_name: South Tarawa Water Supply Project
 approval_date: October 2018
 adb_approval_date: August 2019
-project_cost: $61.83M
+project_cost: To Be Confirmed
 financing:
-  - name: ADB 
-    amount: $13 M
-  - name: GCF
-    amount: $28.63 M (Grant)
-  - name: World Bank
-    amount: $12.96 M
-  - name: Government
-    amount: $7.24 M
 impact:
   - item: 62,298 beneficiaries;
   - item: 89,400 tCO<sub>2</sub>e per year; 
@@ -33,7 +25,9 @@ draft: false
 
 Kiribati is one of the most remote and least developed countries in the world. The country faces significant challenges because of its exposure to climate change, geographic disadvantage, dependence on imports, and reliance on revenue from overseas sources.
 South Tarawa’s water supply, in particular, depends entirely on underground freshwater lenses, which are seriously threatened by climate change–induced flooding and prolonged drought. A large majority of households on the island boil water to make it fit for human consumption. If not controlled, the use of kerosene to boil water will result in 107,409 tons of CO2 emissions between 2018 and 2041. Daily pumping of water from the Bonriki and Buota lenses, on the other hand, uses 5.34 gigawatt-hours of electricity and will result in 3,914 tons of CO2 emissions over 20 years.
-The project will address both adaptation and mitigation objectives by building a 6,000 cubic-meter-per-day reverse osmosis seawater desalination plant, to provide South Tarawa with a reliable, climate-resilient source of fresh water. The project will also renovate and expand the reticulated water network to reduce leakages and ensure access to the new clean-water source. A photovoltaic power plant will also be constructed to offset the GHG emissions from the desalination plant and the increased water treatment and distribution.
+
+The estimated $62M project will address both adaptation and mitigation objectives by building a 6,000 cubic-meter-per-day reverse osmosis seawater desalination plant, to provide South Tarawa with a reliable, climate-resilient source of fresh water. The project will also renovate and expand the reticulated water network to reduce leakages and ensure access to the new clean-water source. A photovoltaic power plant will also be constructed to offset the GHG emissions from the desalination plant and the increased water treatment and distribution.
+
 The entire population of Tarawa—currently about 53% of Kiribati’s population—will benefit directly from the project. Without it, there will be more water shortages as the population grows, and there will be less water of consistently good quality for the most vulnerable people and communities. CO2 emissions are expected to decrease by 111,323 metric tons over the 20-year period as water pumping is reduced and the country moves away from diesel generation.
 
 ### Paradigm Shift Potential

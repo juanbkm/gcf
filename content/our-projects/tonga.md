@@ -43,9 +43,9 @@ Installing three renewable-energy technologies—wind power, solar photovoltaic,
 
 Other innovations will be an expected long-term O&M contract between the government and Tonga Power, including the training of local communities in daily O&M, for the long-term sustainability of the facilities to be constructed on the outer islands under the project; gender training, which could lead to long-term employment opportunities for female workers under the project; and more commercially oriented accounting practices and tariff setting. 
 
-New regulation or legislation may be needed to cover the introduction of large-scale BESSs, the climate-proofing requirements of all investments and physical infrastructure, and the integration of diverse renewable-energy technologies. Measures will be initiated to address this need, with support from the project for sector reforms and for the promotion of private sector participation. 
+New regulation or legislation may be needed to cover the introduction of large-scale BESSs, the climate-proofing requirements of all investments and physical infrastructure, and the integration of diverse renewable-energy technologies. Measures will be initiated to address this need, with support from the project for sector reforms and for the promotion of private sector participation.
 
-### Paradigm shift potential
+### Paradigm Shift Potential
 
 The project has been designed to help move Tonga from its current energy pathway that is almost entirely (about 90%) dependent on imported fossil fuels for power generation to a pathway using clean and renewable energy resources that is low-carbon and climate resilient.
 

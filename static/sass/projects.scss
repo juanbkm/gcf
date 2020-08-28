@@ -54,6 +54,11 @@
   .gcf-project-image {
     margin: 0 0 2rem 0;
   } 
+  @include media-breakpoint-down(md) {
+		h2 {
+      font-size: 2rem;
+    }
+	}
 }
 
 .gcf-pager {

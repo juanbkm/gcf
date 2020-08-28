@@ -44,7 +44,7 @@ Major time savings for future BRT passengers and vehicle operating cost savings 
 
 ### Paradigm Shift Potential
 
-The project has basically two novel approaches which have a significant replication potential: 
+The project has basically two novel approaches which have a significant replication potential:
 
 a). Usage of biomethane hybrid buses reducing the amount of biomethane required and resulting in 0-emission bus fleets with very low local pollution levels. Biomethane usage is not new, however using biomethane in developing country cities for urban buses on a non-pilot scale is a novelty. Combing biomethane with hybrid buses for a BRT will also be a first of its kind. This combination is considered critical as biomethane is relatively scarce in urban settings, can be costly to produce and buses use a large amount of energy. 
 

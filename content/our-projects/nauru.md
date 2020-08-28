@@ -8,7 +8,7 @@ project_image_alt: image
 project_name: Sustainable and Climate-Resilient Connectivity Project in Nauru
 approval_date: October 2017
 adb_approval_date: January 2018
-project_cost: $65.3 M
+project_cost: $82.7 M
 financing:
   - name: ADB
     amount: $24.3 M
@@ -16,6 +16,8 @@ financing:
     amount: $26.9 M
   - name: Government of Australia
     amount: $14.1 M
+  - name: Government of Nauru
+    amount: $17.5M
 impact:
   - item: 11,300 beneficiaries from adaptation
   - item: 535,400 tCO<sub>2</sub>e emissions avoided
@@ -27,7 +29,7 @@ weight: 3
 draft: false
 ---
 
-This $65.3 million project was approved by the GCF in October 2017. It will transform Nauru’s 111-year-old boat harbor in Aiwo from a dysfunctional facility into an efficient and climate-resilient port—the country’s first fully functioning international port—to ensure economic, cultural, and social connectivity for Nauru within the region and globally.
+This project was approved by the GCF in October 2017. It will transform Nauru’s 111-year-old boat harbor in Aiwo from a dysfunctional facility into an efficient and climate-resilient port—the country’s first fully functioning international port—to ensure economic, cultural, and social connectivity for Nauru within the region and globally.
 
 The project will also help reform port governance and management, notably through the institution of appropriate and equitable tariffs, and improvements in revenue collection, and build the capacity of the Nauru Port Authority (NPA), through the hiring of qualified staff and through on-the-job and specific training, for financial, economic, and institutional sustainability. 
 

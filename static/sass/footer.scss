@@ -68,7 +68,7 @@
 	a {
 		display: inline-block;
 		margin: 0 3px;
-		color: darken($text-color, 6.67);
+		color: lighten($text-color, 6.67);
 		border-bottom: 1px dotted $text-color;
 		&:hover {
 			color: lighten($text-color, 6.67);
@@ -92,4 +92,12 @@
 .footer-logo {
 	display: block;
 	margin-bottom: 30px;
+}
+
+@include media-breakpoint-down(md) {
+	#footer h2 {
+		span {
+			display: block;
+		}
+	}
 }

@@ -22,10 +22,11 @@
             <p class="gcf-date">{{ . }}</p>
             {{ end }}
 
-            <h4>Financing </h4>
+            {{ with .Params.financing }}<h4>Financing </h4>
             <ul class="dr-funding">
-                {{ range .Params.financing }}<li>{{ .name | markdownify }} <strong>{{ .amount | markdownify }}</strong></li>{{ end }}
+                {{ range . }}<li>{{ .name | markdownify }} <strong>{{ .amount | markdownify }}</strong></li>{{ end }}
             </ul>
+            {{ end }}
 
             {{ with .Params.impact }}<h4>Expected Impact</h4>{{ end }}
             <ul class="">

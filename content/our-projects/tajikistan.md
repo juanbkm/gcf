@@ -43,6 +43,6 @@ Over a period of 5 years, the project will modernize the Hydromet campus and fac
 
 It will also build capacity for extreme-weather forecasting and warning, and organize gender-sensitive consultations to enhance community awareness of flood risks and the use of improved flood forecasts for better disaster preparedness. A knowledge-sharing program will be established with two ongoing ADB projects in the Pyanj River Basin, and with regional and international partners, to sustain capacity development.
 
-### Paradigm shift potential
+### Paradigm Shift Potential
 
 The project will facilitate a significant shift in the funding and provision of information and forecasting services in Tajikistan. The model is also replicable in other hydrometeorology agencies around Central Asia.

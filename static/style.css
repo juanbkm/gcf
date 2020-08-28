@@ -8710,6 +8710,12 @@ form {
 small {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
 
+.gcf-content ul, .gcf-content ol {
+  margin-left: 20px; }
+
+.gcf-content li {
+  margin-bottom: 20px; }
+
 /*-----------------------------------------------------------------------------------
 
 	Utilities.scss
@@ -10324,6 +10330,16 @@ a.h-text-dark:hover {
         will-change: left, top, transform; }
         #top-bar + #header:not(.sticky-header) #header-wrap, #slider + #header:not(.sticky-header) #header-wrap, .floating-header:not(.sticky-header) #header-wrap, div + #header-wrap, .no-sticky #header-wrap, [data-sticky-offset]:not([data-sticky-offset="full"]) #header-wrap, body:not(.stretched) #header:not(.sticky-header) #header-wrap {
           position: absolute; } }
+  @media (max-width: 991.98px) {
+    #header {
+      top: 0;
+      width: 100%; } }
+@media (max-width: 991.98px) {
+  .mobile-home {
+    position: absolute !important;
+    top: 0;
+    width: 100%; } }
+
 .header-wrap-clone {
   display: none; }
   @media (min-width: 992px) {
@@ -10478,6 +10494,16 @@ a.h-text-dark:hover {
   @media (min-width: 992px) {
     .full-header #logo {
       padding-right: 30px; } }
+  @media (max-width: 991.98px) {
+    #logo {
+      width: 70% !important; }
+      #logo a {
+        display: block;
+        height: auto !important; }
+      #logo img {
+        display: block;
+        width: 100% !important;
+        height: auto !important; } }
 /* ----------------------------------------------------------------
 	Retina Logo
 -----------------------------------------------------------------*/
@@ -12787,7 +12813,11 @@ body:not(.stretched) .slider-parallax .slider-inner {
     width: auto !important; }
   .breadcrumb .breadcrumb-item::before {
     color: #f2f2f2; }
-
+  @media (max-width: 991.98px) {
+    .breadcrumb {
+      position: relative !important;
+      right: auto !important;
+      padding-top: 20px !important; } }
 /* Page Title - Dark
 -----------------------------------------------------------------*/
 .page-title {
@@ -13620,6 +13650,10 @@ body:not(.device-touch) .grid-container {
 
 .gcf-content .gcf-project-image {
   margin: 0 0 2rem 0; }
+
+@media (max-width: 991.98px) {
+  .gcf-content h2 {
+    font-size: 2rem; } }
 
 .gcf-pager {
   background-color: #333;
@@ -18788,7 +18822,7 @@ label {
   #copyrights a {
     display: inline-block;
     margin: 0 3px;
-    color: #333333;
+    color: #555555;
     border-bottom: 1px dotted #444; }
     #copyrights a:hover {
       color: #555555;
@@ -18808,6 +18842,10 @@ label {
 .footer-logo {
   display: block;
   margin-bottom: 30px; }
+
+@media (max-width: 991.98px) {
+  #footer h2 span {
+    display: block; } }
 
 /* ----------------------------------------------------------------
 

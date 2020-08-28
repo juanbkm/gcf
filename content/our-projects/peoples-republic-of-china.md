@@ -7,22 +7,9 @@ project_image_thumb: prc-th.jpg
 project_image_alt: image
 project_name: Catalyzing Climate Finance (Shandong Green Development Fund) Program
 approval_date: 14 November 2019
-project_cost: $1.5 B
+adb_approval_date: To Be Confirmed
+project_cost: To Be Confirmed
 financing:
-  - name: ADB 
-    amount: $100 M  
-  - name: GCF
-    amount: $100M (Loan)
-  - name: Agence Francaise de Developpement (AFD) 
-    amount: $83.3M
-  - name: Kreditanstalt für Wiederaufbau (KfW) 
-    amount: $111.1 M
-  - name: Local Government 
-    amount: $375 M
-  - name: Private, Institutional, and Commercial Finance
-    amount: $626 M
-  - name: General Partners 
-    amount: $15 M
 impact:
   - item: 37.5 Mt CO2e avoided
   - item: 22.5 million beneficiaries from adaptation
@@ -34,13 +21,14 @@ weight: 7
 draft: false
 ---
 
-The program is a pilot run of a $1.5 billion transformational and disruptive financing mechanism backing the efforts of Shandong province to decarbonize its economy and reduce its climate vulnerability. Shandong leads the country in energy consumption; it also leads in the number of vehicles responsible for greenhouse gas emissions. The province looks forward to reaching its peak in CO2 emissions by around 2027, ahead of the national target of 2030 under the country’s Intended Nationally Determined Contributions. 
+
+The program is a pilot run of an estimated $1.4 billion transformational and disruptive financing mechanism backing the efforts of Shandong province to decarbonize its economy and reduce its climate vulnerability. Shandong leads the country in energy consumption; it also leads in the number of vehicles responsible for greenhouse gas emissions. The province looks forward to reaching its peak in CO2 emissions by around 2027, ahead of the national target of 2030 under the country’s Intended Nationally Determined Contributions. 
 
 The program will help make selected climate-resilient subprojects in the province bankable by providing funding support for up-front risk management and for the promotion of advanced technologies and an integrated approach to climate change mitigation and adaptation. Funds from private, institutional, and commercial sources will supplement catalytic funding from international financing institutions including ADB. 
 
 Among the subprojects being considered are the manufacture of safe, clean, and energy-efficient precast concrete frames for climate-resilient construction; the establishment of a technology park to bring together the production, distribution, and storage of hydrogen fuel (a substitute for fossil fuels); and the construction of a 2 km prototype solar road with wireless charging of vehicles while driving, among other features.  
 
-### Paradigm shift potential
+### Paradigm Shift Potential
 
 The Shandong Green Development Fund (SGDF) will be replicated in and beyond Shandong province, first in priority provinces and then at the national level. Within the Province, it should be noted that the SGDF is affiliated to SDIHG, the investment vehicle of the Shandong provincial government charged with the structural transformation and decarbonization of the provincial economy. As such, the provincial Development and Reform Commission (DRC) is both represented on the Board of SDIHG and has close relations with SGDF staff. The SGDF can demonstrate effective approaches to the development of climate subprojects and these approaches can be fed directly into the policy-making process. 
 
