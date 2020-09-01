@@ -18,8 +18,6 @@ financing:
     amount: $2.5 M
   - name: Government
     amount: $5.6 M
-  - name: •	Tonga Power Limited
-    amount: $3 M
 impact:
   - item: 340,000 tCO<sub>2</sub>e avoided
   - item: 96,000 beneficiaries from adaptation

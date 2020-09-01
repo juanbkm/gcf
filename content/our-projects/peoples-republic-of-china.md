@@ -6,7 +6,7 @@ project_image:
 project_image_thumb: prc-th.jpg
 project_image_alt: image
 project_name: Catalyzing Climate Finance (Shandong Green Development Fund) Program
-approval_date: 14 November 2019
+approval_date: November 2019
 adb_approval_date: To Be Confirmed
 project_cost: To Be Confirmed
 financing:

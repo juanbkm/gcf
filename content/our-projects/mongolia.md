@@ -6,7 +6,7 @@ project_image:
 project_image_thumb: mongolia-th.jpg
 project_image_alt: image
 project_name: Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Project in Mongolia
-approval_date: 1 March 2018
+approval_date: March 2018
 adb_approval_date: October 2018
 project_cost: $570.1 M
 financing:
