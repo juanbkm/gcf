@@ -13,7 +13,7 @@ financing:
   - name: ADB
     amount: $24.3 M
   - name: GCF
-    amount: $26.9 M
+    amount: $26.9 M (Grant)
   - name: Government of Australia
     amount: $14.1 M
   - name: Government of Nauru

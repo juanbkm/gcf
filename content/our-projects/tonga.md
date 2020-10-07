@@ -11,13 +11,15 @@ adb_approval_date: March 2019
 project_cost: $53.2 M
 financing:
   - name:	ADB 
-    amount:  $12.2 M
+    amount: $12.2 M
   - name: GCF
-    amount: $29.9 M
+    amount: $29.9 M (Grant)
   - name: Government of Australia
     amount: $2.5 M
   - name: Government
     amount: $5.6 M
+  - name: Tonga Power Limited
+    amount: $3 M
 impact:
   - item: 340,000 tCO<sub>2</sub>e avoided
   - item: 96,000 beneficiaries from adaptation

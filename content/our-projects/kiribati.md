@@ -8,8 +8,16 @@ project_image_alt: image
 project_name: South Tarawa Water Supply Project
 approval_date: October 2018
 adb_approval_date: August 2019
-project_cost: To Be Confirmed
+project_cost: $61.83 M
 financing:
+  - name: ADB
+    amount: $13 M
+  - name: GCF
+    amount: $28.63 M (Grant)
+  - name: World Bank
+    amount: $12.96 M
+  - name: Government
+    amount: $7.24 M
 impact:
   - item: 62,298 beneficiaries;
   - item: 89,400 tCO<sub>2</sub>e per year; 

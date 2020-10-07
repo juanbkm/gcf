@@ -13,7 +13,7 @@ financing:
   - name:	ADB
     amount: $11.2 M
   - name:	GCF
-    amount: $12 M (grant)
+    amount: $12 M (Grant)
   - name:	European Union
     amount: $7.3 M
   - name:	Global Environmental Facility 

@@ -1,0 +1,12 @@
+
+{{ $slide := $.Page.Params.slider }}
+
+<div class="fslider">
+	<div class="flexslider">
+		<div class="slider-wrap">
+      {{ range $slide }}
+      <div class="slide"><img src="./images/{{ .image }}" alt=""></div>
+      {{ end }}
+		</div>
+	</div>
+</div>
