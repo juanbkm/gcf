@@ -8,16 +8,16 @@ project_image_alt: image
 project_name: Climate-Friendly Agribusiness Value Chains Sector Project in Cambodia
 approval_date: March 2018
 adb_approval_date: June 2018
-project_cost: $141.04 M
+project_cost: $141.0 M
 financing:
   - name: ADB
-    amount: $90 M
+    amount: $90.0 M
   - name: GCF
-    amount: $40 M [Loan - $10M; Grant - $30M]
+    amount: $40.0 M [Loan - $10.0 M; Grant - $30.0 M]
   - name: Government
-    amount: $7.38 M
+    amount: $7.4 M
   - name: Beneficiaries
-    amount: $3.66 M
+    amount: $3.7 M
 impact:
   - item: 1.365M beneficiaries
   - item: 240,000 tCO<sub>2</sub>e avoided

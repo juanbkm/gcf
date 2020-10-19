@@ -594,6 +594,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/karachi-brt-corridors.jpg": {
+		"ft": 16384,
+		"iS": 181770,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/karachi-brt-corridors.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/kiribati-th.jpg": {
 		"ft": 16384,
 		"iS": 56681,
@@ -677,6 +688,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/prc-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/images/red-line-station-rendering.jpg": {
+		"ft": 16384,
+		"iS": 244104,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/red-line-station-rendering.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -787,6 +809,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/section-tonga.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/station-exterior.jpg": {
+		"ft": 16384,
+		"iS": 225804,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/station-exterior.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/station.jpg": {
+		"ft": 16384,
+		"iS": 222692,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/station.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

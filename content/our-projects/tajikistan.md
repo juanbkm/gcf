@@ -8,14 +8,14 @@ project_image_alt: image
 project_name: "Institutional Development of the State Agency for Hydrometeorology in Tajikistan"
 approval_date: March 2018
 adb_approval_date: June 2018
-project_cost: $12.79 M
+project_cost: $12.8 M
 financing:
   - name: ADB
     amount: $6.5 M
   - name: GCF
-    amount: $5 M (Grant)
+    amount: $5.0 M (Grant)
   - name: 	Government
-    amount: $1.29 M
+    amount: $1.3 M
 impact:
   - item: 8.7 million beneficiaries
   - item: Cropping intensities increased by 10% for gravity irrigation and by 50% for pump irrigation 

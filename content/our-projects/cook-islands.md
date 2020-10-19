@@ -8,12 +8,12 @@ project_image_alt: image
 project_name: Pacific Islands Renewable Energy Investment Programme Renewable Energy Project in the Cook Islands (sub-project)
 approval_date: December 2016
 adb_approval_date: October 2017
-project_cost: $ 43.65M
+project_cost: $ 43.7M
 financing:
   - name:	ADB
     amount: $11.2 M
   - name:	GCF
-    amount: $12 M (Grant)
+    amount: $12.0 M (Grant)
   - name:	European Union
     amount: $7.3 M
   - name:	Global Environmental Facility 

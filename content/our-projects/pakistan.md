@@ -11,9 +11,9 @@ adb_approval_date: July 2019
 project_cost: $493.5 M
 financing:
   - name: ADB
-    amount: $225.32 M
+    amount: $225.3 M
   - name: GCF 
-    amount: $49 M [Loan - $37.2 M; Grant - $11.8 M]
+    amount: $49.0 M [Loan - $37.2 M; Grant - $11.8 M]
   - name: Agence Francaise de Developpement
     amount: $71.8 M
   - name: Asian Infrastructure Investment Bank

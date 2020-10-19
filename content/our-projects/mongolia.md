@@ -11,13 +11,13 @@ adb_approval_date: October 2018
 project_cost: $570.1 M
 financing:
   - name: ADB
-    amount: $80 M
+    amount: $80.0 M
   - name: GCF
-    amount: $145 M [Loan - $95M; Grant - $50M]
+    amount: $145.0 M [Loan - $95.0 M; Grant - $50.0 M]
   - name: ADB High Level Technology Fund 
-    amount: $3 M
+    amount: $3.0 M
   - name: Government
-    amount: $35 M
+    amount: $35.0 M
   - name: Others
     amount: $243.2 M
   - name: Beneficiaries
@@ -31,6 +31,10 @@ impact:
 references:
   - link: https://www.adb.org/projects/49169-002/main
     name: "Mongolia: Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project"
+  - link: https://www.greenclimate.fund/news/ulaanbaatar-live-better-breathe-easier
+    name: "A GCF project is helping Ulaanbaatar city shift to a low-emission, climate-resilient development path"
+  - link: https://www.greenclimate.fund/stories/mongolia-ambition
+    name: "GCF is supporting Mongolia’s ambition to pursue a low-emission future"
 weight: 6
 draft: false
 ---

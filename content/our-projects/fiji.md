@@ -15,9 +15,9 @@ financing:
   - name: EIB
     amount: $70.8 M
   - name: GCF
-    amount: $31.04 M (grant)
+    amount: $31.0 M (Grant)
   - name: Government
-    amount: $150.10 M
+    amount: $150.1 M
 impact:
   - item: 290,854 beneficiaries from adaptation
   - item: Increased water supply to the Greater Suva Area by 40,000m3 per day
