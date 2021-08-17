@@ -490,8 +490,8 @@
 		"oA": 0,
 		"oAP": "/images/gcf-portfolio-by-financing.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -501,8 +501,8 @@
 		"oA": 0,
 		"oAP": "/images/gcf-portfolio-by-target.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -512,8 +512,8 @@
 		"oA": 0,
 		"oAP": "/images/gcf-portfolio-impact-areas.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -545,8 +545,8 @@
 		"oA": 0,
 		"oAP": "/images/gcf-projects-leverage.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -556,8 +556,8 @@
 		"oA": 0,
 		"oAP": "/images/gcf-projects.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -649,6 +649,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/main-image-mod.jpg": {
+		"ft": 16384,
+		"iS": 345917,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/main-image-mod.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/mongolia-asdip-th.jpg": {
+		"ft": 16384,
+		"iS": 205726,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/mongolia-asdip-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/mongolia-th.jpg": {
 		"ft": 16384,
 		"iS": 56960,
@@ -699,6 +721,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/red-line-station-rendering.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/sea-th.jpg": {
+		"ft": 16384,
+		"iS": 141241,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/sea-th.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

@@ -242,6 +242,7 @@ $masonry-prefix: masonry;
 		margin: 0;
 		padding: 0;
 		font-size: $Portfolio_desc-title-size;
+		font-weight: 400 !important;
 		.col-md-9 & {
 			font-size: decimal-round($Portfolio_desc-title-size / 1.1111, 3);
 		}
@@ -263,6 +264,7 @@ $masonry-prefix: masonry;
 	span,
 	span a {
 		color: lighten($text-color, 26.67);
+		font-weight: 700;
 	}
 
 	span a:hover {

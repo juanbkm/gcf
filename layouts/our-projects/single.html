@@ -15,11 +15,11 @@
             <p class="gcf-cost">{{ .Params.project_cost }}</p>
 
             <h4>GCF <strong>Approval Date</strong></h4>
-            <p class="gcf-date">{{ .Params.approval_date }}</p>
+            <p class="gcf-date">{{ .Params.approval_date | markdownify }}</p>
 
             {{ with .Params.adb_approval_date }}
             <h4>ADB <strong>Approval Date</strong></h4>
-            <p class="gcf-date">{{ . }}</p>
+            <p class="gcf-date">{{ . | markdownify }}</p>
             {{ end }}
 
             {{ with .Params.financing }}<h4>Financing </h4>

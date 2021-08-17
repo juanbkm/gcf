@@ -12970,6 +12970,8 @@ body:not(.device-touch) .grid-container {
   margin-top: 30px;
   margin-bottom: 10px;
   font-size: 2rem; }
+  .slider-caption p span {
+    display: block; }
 
 #section-paradigm {
   color: #fff; }
@@ -13188,7 +13190,8 @@ body:not(.device-touch) .grid-container {
   .portfolio-desc h3 {
     margin: 0;
     padding: 0;
-    font-size: 1.25rem; }
+    font-size: 1.25rem;
+    font-weight: 400 !important; }
     .col-md-9 .portfolio-desc h3 {
       font-size: 1.125rem; }
     .portfolio-desc h3 a {
@@ -13201,7 +13204,8 @@ body:not(.device-touch) .grid-container {
       font-size: 0.875rem; }
   .portfolio-desc span,
   .portfolio-desc span a {
-    color: #888888; }
+    color: #888888;
+    font-weight: 700; }
   .portfolio-desc span a:hover {
     color: #000; }
   .desc-lg .portfolio-desc {
@@ -13607,6 +13611,11 @@ body:not(.device-touch) .grid-container {
   #portfolio-ajax-show #portfolio-navigation {
     top: 0;
     margin-top: 0; }
+
+#gcf-prj-intro {
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 40px 0; }
 
 .gcf-sidebar h4 {
   color: #333;
