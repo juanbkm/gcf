@@ -8,8 +8,22 @@ project_image_alt: image
 project_name: Catalyzing Climate Finance (Shandong Green Development Fund) Program
 approval_date: November 2019
 adb_approval_date: November 2020
-project_cost: To Be Confirmed
+project_cost: 1.5 Billion
 financing:
+  - name: ADB
+    amount: $100 M
+  - name: GCF
+    amount: $100 M (Loan)
+  - name: KfW Bankengruppe
+    amount: $112.7 M
+  - name: Agence Francaise de Developpement
+    amount: $78.9 M
+  - name: Other LPs
+    amount: $360 M
+  - name: PIC Investors
+    amount: $730 M
+  - name: GP Cofinancing
+    amount: $18.4 M
 impact:
   - item: 37.5 Mt CO2e avoided
   - item: 22.5 million beneficiaries from adaptation

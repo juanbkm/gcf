@@ -27,6 +27,8 @@ impact:
 references:
   - link: https://www.adb.org/projects/48409-002/main
     name: "Cambodia: Climate-Friendly Agribusiness Value Chains Sector Project"
+  - link: https://www.greenclimate.fund/story/cambodia-s-climate-action-game-changer-resilient-agricultural-value-chains
+    name: "Cambodia's Climate Action Game-Changer: Resilient Agricultural Value Chains"
 weight: 5
 draft: false
 ---

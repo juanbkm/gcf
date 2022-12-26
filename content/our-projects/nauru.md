@@ -23,8 +23,12 @@ impact:
   - item: 535,400 tCO<sub>2</sub>e emissions avoided
   - item: 170-meter-long climate-resilient wharf and breakwater constructed
 references:
-  - link: https://www.adb.org/projects/48480-003/main
-    name: "Nauru: Sustainable and Climate-Resilient Connectivity Project (formerly Port Development Project)"
+  - link: https://www.adb.org/news/features/qa-how-new-port-building-skills-and-knowledge-nauru
+    name: "Q&A: How a New Port is Building Skills and Knowledge in Nauru"
+  - link: https://www.adb.org/results/how-innovation-helping-deliver-new-port-nauru
+    name: "How innovation is helping to deliver a new port for Nauru"
+  - link: https://www.adb.org/news/videos/port-upgrade-throws-lifeline-people-nauru
+    name: "Port Upgrade Throwing a Lifeline to the People of Nauru"
 weight: 3
 draft: false
 ---
