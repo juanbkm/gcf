@@ -8,20 +8,20 @@ project_image_alt: Shepherds looking after sheep
 project_name: Aimags and Soums Green Regional Development Investment Program (ASDIP)
 approval_date: March 2021
 adb_approval_date: To Be Confirmed
-project_cost: To Be Confirmed
-financingx:
+project_cost: $735 Million
+financing:
   - name: ADB
-    amount: $273 M [Loan - $270M; Grant - $3M]
+    amount: $273 M
   - name: GCF
     amount: $175 M [Loan - $130M; Grant - $45M]
-  - name: European Union 
-    amount: $30 M
   - name: EIB 
     amount: $150 M
-  - name: DBM/CB 
+  - name: EU
+    amount: $30 M
+  - name: Private Sectors
     amount: $25 M
   - name: Government
-    amount: $76.28M
+    amount: $75.28 M
   - name: Beneficiaries
     amount: $6.72 M
 impact:

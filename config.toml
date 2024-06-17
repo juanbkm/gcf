@@ -1,4 +1,17 @@
+
+# Development server
 baseURL = "https://juanmagdaraog.com/gcf/"
+
+# Staging
+# baseURL = "https://stage.adb.org/multimedia/adbandgcf/"
+
+# ADB Dev
+# baseURL = "https://dev.adb.org/multimedia/adbandgcf/"
+
+# Live
+# baseURL = "https://www.adb.org/multimedia/adbandgcf/"
+
+
 languageCode = "en-us"
 title = "ADB and the GCF"
 summaryLength = 10

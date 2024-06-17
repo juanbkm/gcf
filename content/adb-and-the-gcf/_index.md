@@ -12,4 +12,4 @@ The Green Climate Fund (GCF) is global funding platform established in 2010 unde
 
 [ADB is has been an accredited entity to the GCF](https://www.greenclimate.fund/ae/adb) since 2015 and—based on the request of an ADB developing member country—can access GCF resources to co-finance ADB projects of any GCF funding category (type, size, risk category, modality).
  
-To date, GCF has approved a total funding of $948 million for 12 ADB projects, comprising of $295.2 million in grants and $653 million in loans, making approximately 10% of total GCF project funding.  Total project financing—including ADB and other co-financing— for all 12 projects in $8 billion.
+To date, GCF has approved a total funding of $1.237 billion for 14 ADB projects, comprising $460.2 million in grants and $777.2 million in loans. Total project financing for all 14 projects is $9.06 billion.

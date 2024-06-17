@@ -21,6 +21,7 @@ ig:
   - title: ADB-GCF Projects Leverage Ratios
     subtitle: Non-GCF:GCF Funding
     src: gcf-projects-leverage.png
+    map: image-map
 draft: false
 ---
 Being able to access and deploy GCF funds is critical for the Asian Development Bank (ADB) to scale up the delivery of climate financing to its developing member countries.

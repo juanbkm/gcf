@@ -13,9 +13,9 @@ financing:
   - name: ADB
     amount: $3.385 Billion
   - name: GCF
-    amount: $300 M G [Loan - $280.0 M; Grant - $20.0 M]
+    amount: $300 M [Loan - $280 M; Grant - $20 M]
 impact:
-  - item: 119 million tCO&#8322; in net GHG emissions reduced / avoided
+  - item: 119 million tCO<sub>e</sub> in net GHG emissions reduced / avoided (lifetime emissions)
   - item: 45% of sub-projects over time will classify as ‘Priority Green’, meeting global best practice thresholds for GHG reductions 
   - item: 340,000 green jobs created by ACGF GRP sub-projects 
   - item: 80% of sub-projects will directly advance gender and social inclusion
@@ -27,8 +27,9 @@ references:
 weight: 7
 draft: false
 ---
-The ASEAN Catalytic Green Finance Facility Green Recovery Program (ACGF GRP) is a comprehensive, country-owned, multi-instrument approach to support countries pursue a low-emission path to post-coronavirus disease (COVID-19) recovery. It has been designed to kickstart a cycle of climate change mitigation investments in the initial years of COVID-19 recovery (starting in 2021) which will help eligible ASEAN countries align with their Paris Agreement commitments and provide the foundation for more ambitious Nationally Determined Contributions (NDCs). The program will capitalize on a brief window of opportunity to influence stimulus packages, help countries refocus on NDCs, avoid a drastic increase in emissions and environmental degradation, and stimulate growth by creating ‘green’ jobs. 
-While being a distinct ADB-managed program, ACGF GRP leverages the strengths of the entire ASEAN Catalytic Green Finance Facility,  under the ASEAN Infrastructure Fund (AIF),which is collectively owned by all ASEAN members and owned and managed by ADB. Members of the AIF Board—representatives of ministries of finance from ASEAN countries—will serve as focal points for the program in each country, ensuring a transparent and country-owned process in the identification, development, and financing of projects. 
+The ASEAN Catalytic Green Finance Facility (ACGF): Green Recovery Program (GRP) is a comprehensive, country-owned, multi-instrument approach to support countries pursue a low-emission path to post-coronavirus disease (COVID-19) recovery. It was designed to kickstart a cycle of climate change mitigation investments in the initial years of recovery (starting in 2021) which will help eligible ASEAN countries align with their Paris Agreement commitments and provide the foundation for more ambitious Nationally Determined Contributions (NDCs). The program will help countries refocus on NDCs, avoid a drastic increase in emissions and environmental degradation as the economy bounces back, and stimulate growth by creating ‘green’ jobs.
+
+While being a distinct ADB-managed program, the ACGF GRP leverages the strengths of the entire ACGF, an entity under the ASEAN Infrastructure Fund (AIF),which is owned by all ASEAN members and ADB, and administered by ADB. Members of the AIF Board—representatives of ministries of finance from ASEAN countries— serve as focal points for the program in each country, ensuring a transparent and country-owned process in the identification, development, and financing of projects. 
 
 ### Key features:
 

@@ -13,12 +13,26 @@
         <div class="col mx-auto mb-5 p-5">
             <h2 class="text-center mx-auto">{{ .title | markdownify }}</h2>
             <h3 class="text-center mx-auto">{{ .subtitle | markdownify }}</h3>
-            <img src="./images/{{ .src }}" class="mx-auto d-block" alt="{{ .title }}" data-animate="fadeInUp" data-delay="200">
+            <img src="./images/{{ .src }}" class="mx-auto d-block" alt="{{ .title }}" data-animate="fadeInUp" data-delay="200" {{ with .map }} usemap="#{{ . }}"{{ end }}>
         </div>
     </div>
     {{ end }}
 </div>
 
-    
+
+<map name="image-map">
+    <area target="" alt="" title="" href="our-projects/southeast-asia/" coords="130,30,76,55" shape="rect">
+    <area target="" alt="" title="" href="our-projects/peoples-republic-of-china/" coords="267,31,211,57" shape="rect">
+    <area target="" alt="" title="" href="our-projects/mongolia-2/" coords="402,28,342,55" shape="rect">
+    <area target="" alt="" title="" href="our-projects/nauru/" coords="534,29,476,57" shape="rect">
+    <area target="" alt="" title="" href="our-projects/kiribati/" coords="664,29,609,56" shape="rect">
+    <area target="" alt="" title="" href="our-projects/cook-islands/" coords="807,28,749,57" shape="rect">
+    <area target="" alt="" title="" href="our-projects/fiji/" coords="69,278,15,305" shape="rect">
+    <area target="" alt="" title="" href="our-projects/pakistan/" coords="199,277,146,305" shape="rect">
+    <area target="" alt="" title="" href="our-projects/mongolia/" coords="335,222,280,248" shape="rect">
+    <area target="" alt="" title="" href="our-projects/cambodia/" coords="473,222,411,249" shape="rect">
+    <area target="" alt="" title="" href="our-projects/tajikistan/" coords="603,223,544,248" shape="rect">
+    <area target="" alt="" title="" href="our-projects/tonga/" coords="741,222,676,248" shape="rect">
+</map>    
 
 {{ end }}

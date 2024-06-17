@@ -8,10 +8,10 @@ project_image_alt: image
 project_name: Karachi Bus Rapid Transit Project
 approval_date: October 2018
 adb_approval_date: July 2019
-project_cost: $493.5 M
+project_cost: $515.6 M
 financing:
   - name: ADB
-    amount: $225.3 M
+    amount: $235 M
   - name: GCF 
     amount: $49.0 M [Loan - $37.2 M; Grant - $11.8 M]
   - name: Agence Francaise de Developpement
@@ -19,7 +19,7 @@ financing:
   - name: Asian Infrastructure Investment Bank
     amount: $71.8 M
   - name: Government
-    amount: $75.6 M
+    amount: $88 M
 impact:
   - item: 2.6 Mt CO<sup>2</sup>e avoided
   - item: 1.5 million beneficiaries from adaptation
