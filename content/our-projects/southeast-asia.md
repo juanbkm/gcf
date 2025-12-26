@@ -5,13 +5,13 @@ header:
 project_image:
 project_image_thumb: sea-th.jpg
 project_image_alt: image
-project_name: "ASEAN Catalytic Green Finance Facility (ACGF): Green Recovery Program (GRP)"
+project_name: "ASEAN Catalytic Green Finance Facility (ACGF): Green Recovery Program"
 approval_date: March 2021
 adb_approval_date: "November 2021"
-project_cost: $ 4.02 Billion
+project_cost: $ 4.02 B
 financing:
   - name: ADB
-    amount: $3.385 Billion
+    amount: $3.385 B
   - name: GCF
     amount: $300 M [Loan - $280 M; Grant - $20 M]
 impact:
@@ -19,6 +19,12 @@ impact:
   - item: 45% of sub-projects over time will classify as ‘Priority Green’, meeting global best practice thresholds for GHG reductions 
   - item: 340,000 green jobs created by ACGF GRP sub-projects 
   - item: 80% of sub-projects will directly advance gender and social inclusion
+countries:
+  - item: Cambodia 
+  - item: Indonesia 
+  - item: Lao People's Democratic Republic 
+  - item: Malaysia
+  - item: Philippines
 references:
   - link: https://www.greenclimate.fund/document/asean-catalytic-green-finance-facility-acgf
     name: "GCF: ASEAN Catalytic Green Finance Facility (ACGF)"
@@ -29,7 +35,7 @@ draft: false
 ---
 The ASEAN Catalytic Green Finance Facility (ACGF): Green Recovery Program (GRP) is a comprehensive, country-owned, multi-instrument approach to support countries pursue a low-emission path to post-coronavirus disease (COVID-19) recovery. It was designed to kickstart a cycle of climate change mitigation investments in the initial years of recovery (starting in 2021) which will help eligible ASEAN countries align with their Paris Agreement commitments and provide the foundation for more ambitious Nationally Determined Contributions (NDCs). The program will help countries refocus on NDCs, avoid a drastic increase in emissions and environmental degradation as the economy bounces back, and stimulate growth by creating ‘green’ jobs.
 
-While being a distinct ADB-managed program, the ACGF GRP leverages the strengths of the entire ACGF, an entity under the ASEAN Infrastructure Fund (AIF),which is owned by all ASEAN members and ADB, and administered by ADB. Members of the AIF Board—representatives of ministries of finance from ASEAN countries— serve as focal points for the program in each country, ensuring a transparent and country-owned process in the identification, development, and financing of projects. 
+While being a distinct ADB-managed program, the ACGF GRP leverages the strengths of the entire ACGF, an entity under the ASEAN Infrastructure Fund (AIF), which is owned by all ASEAN members and ADB, and administered by ADB. Members of the AIF Board—representatives of ministries of finance from ASEAN countries— serve as focal points for the program in each country, ensuring a transparent and country-owned process in the identification, development, and financing of projects. 
 
 ### Key features:
 
@@ -39,7 +45,7 @@ While being a distinct ADB-managed program, the ACGF GRP leverages the strengths
   * progressively support higher-performing low-emission sub-projects over time, commensurate with increasing climate ambition over time; 
   * progressively utilize and champion more sophisticated innovative financing structures over time.
  
-* Mobilizing **substantial global green capital flows**, both through projects as well as through further replication of these across the region at scale, by catalyzing $ in additional private/commercial finance for every GCF $1 spent, through green bonds, hybrid public-private partnerships (PPPs) (in partnership with OPPP), and other innovative financing models
+* Mobilizing **substantial global green capital flows**, both through projects as well as through further replication of these across the region at scale, by catalyzing $ in additional private/commercial finance for every GCF $1 spent, through green bonds, hybrid public-private partnerships (PPPs) (in partnership with Office of Markets Development and Public-Private Partnership), and other innovative financing models
 * Enabling investments in low-emission infrastructure, expected to **directly reduce 119 million tonnes of CO&#8322;** (lifetime emissions) **and create at least 340,000 ‘green’ jobs**, demonstrating the benefits of a green recovery (with co-benefits in terms of gender equity and social inclusion)
 * Supporting governments to **prioritize low-emission projects within infrastructure pipelines**, especially in immediate post-COVID-19 recovery (2021-2026), strengthening project pipelines, shaping bankability, and other enabling environment factors that will facilitate further green investments
 * Transforming ADB’s pipeline for the region (around $5 to $6 billion committed per year), building on ADB’s climate operations, to scale up **a more ambitious and transformative generation of high-performing, low-emission projects** while tackling the financing challenges emerging from the COVID-19 crisis

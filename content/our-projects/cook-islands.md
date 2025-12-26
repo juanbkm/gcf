@@ -5,15 +5,15 @@ header: section-cooks-island.jpg
 project_image:
 project_image_thumb: cooks-island-th.jpg
 project_image_alt: image
-project_name: Pacific Islands Renewable Energy Investment Programme Renewable Energy Project in the Cook Islands (sub-project)
+project_name: "Pacific Islands Renewable Energy Investment Programme: Renewable Energy Project in the Cook Islands (sub-project)"
 approval_date: December 2016
 adb_approval_date: October 2017
-project_cost: $ 43.7M
+project_cost: $ 60.9 M
 financing:
   - name:	ADB
-    amount: $11.2 M
+    amount: $23.4 M
   - name:	GCF
-    amount: $12.0 M (Grant)
+    amount: $17 M (Grant)
   - name:	European Union
     amount: $7.3 M
   - name:	Global Environmental Facility 
@@ -37,23 +37,22 @@ references:
 weight: 2
 draft: false
 ---
+The GCF is providing a $12-million grant to co-finance the project, which is part of the seven-year Pacific Islands Renewable Investment Program covering the Federated States of Micronesia, the Marshall Islands, Nauru, Papua New Guinea, Samoa, and Tonga. The grant will fund assistance to the Cook Islands in procuring and installing battery storage.
 
-The GCF is providing a $12 million grant to co-finance the project, part of the 7-year Pacific  Islands Renewable Investment Program, which also covers the Federated States of Micronesia, the Marshall Islands, Nauru, Papua New Guinea, Samoa, and Tonga. The grant will fund assistance to the Cook Islands in procuring and installing battery storage.
+Additional battery storage capacity consisting of 1 megawatt (MW)/4 megawatt hour (MWH) for grid stability will be installed in the diesel power station in Avatiu Valley, Rarotonga, and 2 MW/8 MWh for load-shifting capability will be installed at the Rarotonga International Airport. Battery storage capacity must be added to the grid to manage the intermittent supply before private sector investment in renewable energy can increase as planned.
 
-Additional battery storage capacity consisting of 1 megawatt (MW)/4 megawatt hour (MWH) for grid stability will be installed at the diesel power station in Avatiu Valley, Rarotonga, and 2 MW/8 MWh for load-shifting capability, will be installed at the Rarotonga airport. Battery storage capacity must be added to the grid to manage the intermittent supply before private sector investment in renewable energy can increase as planned.
+The additional capacity will allow an increase of 6 MW in solar photovoltaic capacity connected to the grid, and improve the share of renewable energy in the country’s national electricity supply, to about 50% by the end of the project in 2021 from the present 15%. This will displace 7,884 MWh per year of diesel generation and reduce greenhouse gas emissions by about 6,370 metric tons of carbon dioxide equivalent (tCO<sub>2</sub>e) per year.
 
-The additional capacity will allow an increase of 6 MW in solar photovoltaic capacity connected to the grid, and improve the share of renewable energy in the country’s national electricity supply from the present 15% to about 50% by the end of the project in 2021, displacing 7,884 MWh per year of diesel generation and reducing greenhouse-gas emissions by about 6,370 metric tons of carbon dioxide equivalent (tCO<sub>2</sub>e) per year.
-
-GCF grant support will make it possible for the Cook Islands to make the planned shift toward greater private sector investment, reduce its power generation and tariff costs, and create more jobs. It is also likely to trigger broad initiatives that will nudge the island countries, now heavily dependent on diesel for power generation, toward increased use of renewable energy.
+GCF grant support will make it possible for the Cook Islands to make the planned shift towards greater private sector investment, reduce its power generation and tariff costs, and create more jobs. It is also likely to trigger broad initiatives that will nudge the island countries, now heavily dependent on diesel for power generation, toward increased use of renewable energy.
 
 ### Paradigm Shift Potential
 
-The program has been designed to achieve a paradigm shift in the Pacific Island region to help the Pacific SIDS move rapidly away from their traditional energy pathway that has been almost entirely dependent on fossil fuels, to a more progressive and sustainable pathway that is low-carbon, climate resilient and improves energy access to marginalized populations in states where this is currently low. The program will support the following paradigm shifts:
+The program has been designed to achieve a paradigm shift in the Pacific Island region to help the Small Island Developing States (SIDS) move rapidly away from being mostly dependent on fossil fuels, to a more progressive and sustainable pathway that is low-carbon and climate-resilient, and improves energy access to marginalized populations in states where this is currently low. The program will support the following paradigm shifts:
 
-(i)	Transition to low-carbon energy. The program will create a paradigm shift by supporting the SIDS to overcome the investment and technical barriers to integrating higher percentages of renewable energy. Technical integration of intermittent renewable energy poses significant challenges on small grids managed by utilities with relatively limited capacity. To date, most Pacific countries have gained valuable experience with small percentages of grid-connected solar and wind, which existing diesel generators can integrate without significant issues. However, as integration percentages increase, the relatively simple diesel grids require significant upgrades (including battery storage) and improvements in system management capacity. In general, the Pacific is just commencing the investment cycle for renewable energy integration beyond small initial investments, and significant challenges remain which are best addressed through a program.
+(i) Transition to low-carbon energy. The program will create a paradigm shift by supporting the SIDS to overcome the investment and technical barriers to integrating higher percentages of renewable energy. Technical integration of intermittent renewable energy poses significant challenges on small grids managed by utilities with relatively limited capacity. To date, most Pacific countries have gained valuable experience with small percentages of grid-connected solar and wind, which existing diesel generators can integrate without significant issues. However, as integration percentages increase, the relatively simple diesel grids require significant upgrades (including battery storage) and improvements in system management capacity. In general, the Pacific is just commencing the investment cycle for renewable energy integration beyond small initial investments, and significant challenges remain which are best addressed through a program.
 
-(ii)	Increased private sector engagement. The program will support a paradigm shift of promoting greater private sector participation and investment to support the structural shift towards renewable energy. This will be particularly important in SIDS which lack sufficient sovereign financing and require technical support to manage the transition.
+(ii) Increased private sector engagement. The program will support a paradigm shift in promoting greater private sector participation and investment to support the structural shift towards renewable energy. This will be particularly important in SIDS which lack sufficient sovereign financing and require technical support to manage the transition.
 
-(iii)	Improved energy access. There are currently significant disincentives for corporatized power utilities in SIDS that are reliant on high cost diesel based generation centers to increase energy access for customers in remote areas. Most Pacific countries lack budget resources to support rural electrification programs. Renewable energy for rural electrification offers a paradigm shift, as low cost power generation will allow power utilities to extend grids and improve access at lower power generation costs.
+(iii) Improved energy access. There are currently significant disincentives for corporatized power utilities in SIDS that are reliant on high-cost, diesel-based generation centers to increase energy access for customers in remote areas. Most Pacific countries lack the budget to support rural electrification programs. Renewable energy for rural electrification offers a paradigm shift, as low-cost power generation will allow power utilities to extend grids and improve access at lower power generation costs.
 
-(iv)	Increased knowledge sharing. The program approach offers enhanced opportunities for sharing of lessons learnt among SIDS’s. This will be facilitated by the regional project management unit and enhanced through regional workshops and knowledge products.
+(iv) Increased knowledge sharing. The program approach offers enhanced opportunities for sharing of lessons learnt among SIDS. This will be facilitated by the regional project management unit and enhanced through regional workshops and knowledge products.

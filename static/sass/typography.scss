@@ -55,6 +55,7 @@ body {
 	line-height: 1.5;
 	color: $body-text-color;
 	font-family: $body-font;
+	font-feature-settings: "lnum";
 }
 
 a {
@@ -146,5 +147,11 @@ small { font-family: $body-font; }
 	}
 	li {
 		margin-bottom: 20px;
+	}
+}
+
+blockquote {
+	.person {
+		text-align: left;
 	}
 }

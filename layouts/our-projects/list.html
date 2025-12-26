@@ -3,7 +3,14 @@
 
 <div class="container clearfix">
 
-    <p class="lead center mx-auto" id="gcf-prj-intro" style="max-width: 800px;">ADB's projects are selected for their potential to deliver innovative climate-based solutions.  ADB is working with the GCF to to mitigate greenhouse gas emissions and help the poorest and most vulnerable to adapt to the impacts of climate change.</p>
+    <div class="lead center mx-auto" id="gcf-prj-intro" style="max-width: 800px;">
+        {{ $markdown := .Params.lead | markdownify }}
+        {{ if not ( strings.Contains $markdown "<p>" ) }}
+            <p>{{ $markdown }}</p>
+        {{ else }}
+            {{ $markdown }}
+        {{ end }}
+    </div>
     <!-- Project Items
     ============================================= -->
     <div id="portfolio" class="portfolio row grid-container gutter-50" data-layout="fitRows">

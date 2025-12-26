@@ -30,16 +30,13 @@ references:
 weight: 4
 draft: false
 ---
+Tajikistan is a Central Asian country highly prone to climate-related extreme weather events. About 70% of the population is rural and relies on agriculture as primary source of income.
 
-The State Agency for Hydrometeorology (Hydromet) is the climate and weather agency of Tajikistan, a Central Asian country highly prone to climate-related extreme weather events. About 70% of the population is rural and relies on agriculture as primary source of income.
+To protect the vital interests of individuals, society, and the state from natural hazards, the State Agency for Hydrometeorology (Hydromet), the climate and weather agency of Tajikistan, is mandated to provide hydrometeorological information to government and civil society stakeholders, including warnings about extreme weather events related to climate change. It also has to ensure the functioning of the state monitoring network and the system for collecting, processing, and disseminating hydrometeorological information. However, Hydromet has limited capacity to fulfill its public service mandate.
 
-To protect the vital interests of individuals, society, and the state from natural hazards, the agency is mandated to provide hydrometeorological information to government and civil society stakeholders, including warnings about extreme weather events related to climate change, and to ensure the functioning of the state monitoring network and the system for collecting, processing, and disseminating hydrometeorological information.
-However, Hydromet has limited capacity to fulfill its public service mandate. 
+The project is designed to address the underlying institutional barriers and weaknesses, and develop Hydromet into a sustainable and well-resourced institution that provides timely and accurate forecasting services. All of Tajikistan stands to benefit. Direct benefits are expected for individuals, community organizations, and government agencies in the Pyanj River Basin.
 
-
-The project is designed to address the underlying institutional barriers and weaknesses, and develop Hydromet into a sustainable and well-resourced institution providing forecasting services that are timely and accurate. All of Tajikistan stands to benefit. Direct benefits are expected for individuals, community organizations, and government agencies in the Pyanj River Basin.
-
-Over a period of 5 years, the project will modernize the Hydromet campus and facilities, develop a strategy for sustainable operations and maintenance, convert the agency into a semiautonomous government entity with the flexibility to set staff salaries and retain additional entrepreneurial revenue from the sale of weather forecast information products. The project will support the development and implementation of a fee-based service delivery model to strengthen financial viability.
+Over a period of five years, the project will modernize the Hydromet campus and facilities, develop a strategy for sustainable operations and maintenance, and convert the agency into a semiautonomous government entity with the flexibility to set staff salaries and retain additional entrepreneurial revenue from the sale of weather forecast information products. The project will support the development and implementation of a fee-based service delivery model to strengthen financial viability.
 
 It will also build capacity for extreme-weather forecasting and warning, and organize gender-sensitive consultations to enhance community awareness of flood risks and the use of improved flood forecasts for better disaster preparedness. A knowledge-sharing program will be established with two ongoing ADB projects in the Pyanj River Basin, and with regional and international partners, to sustain capacity development.
 
