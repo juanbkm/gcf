@@ -24,6 +24,14 @@ impact:
   - item: New Hydromet operation center modernized
   - item: Capacity building to improve forecasting and warning of extreme weather events
   - item: Develop and implement marketing and sale of fee-based services
+progress:
+  - item: 9.5 million beneficiaries
+  - item: 100% of capacity-building and knowledge-sharing program implemented
+  - item: 100% of Hydromet’s core operational systems modernized
+  - item: 100% of activities on marketing of fee-based services completed
+story:
+  - link: #
+    name: "ADB-GCF Microsite story_and FP075 Institutional Development of the State Agency for Hydrometeorology of Tajikistan (20 Aug).docx"
 references:
   - link: https://www.adb.org/projects/47181-003/main
     name: "Tajikistan: Water Resources Management in the Pyanj River Basin Project (Additional Finance)"

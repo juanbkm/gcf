@@ -24,11 +24,21 @@ impact:
   - item: 40,000 farmers (of which 16,000 women) trained in climate-smart agriculture
   - item: 50 agribusinesses become more resource-efficient in terms of water savings, energy, and reduction in postharvest losses 
   - item: 27 irrigation and water management systems targeting 15,000 ha and 25,000 households (with at least 50,000 women) rehabilitated and made climate-resilient 
+
+progress:
+  - item: 1,024,482 beneficiaries (165,399 direct and 859,083 indirect)
+  - item: 359,209 tCO2e avoided
+  - item: 32,350 farmers (15,221 women) trained in climate-smart agriculture and agribusiness development skills
+  - item: 80 agricultural cooperatives become more resource-efficient in terms of water savings, energy, and reduction in postharvest losses
+  - item: 100% of detailed engineering design of 27 irrigation sub-projects completed, with 18 irrigation sub-projects with a potential irrigated area of 9,265ha benefitting 49,271 people including 27,788 women completely constructed and made climate-resilient
 references:
   - link: https://www.adb.org/projects/48409-002/main
     name: "Cambodia: Climate-Friendly Agribusiness Value Chains Sector Project"
   - link: https://www.greenclimate.fund/story/cambodia-s-climate-action-game-changer-resilient-agricultural-value-chains
     name: "Cambodia's Climate Action Game-Changer: Resilient Agricultural Value Chains"
+story:
+  - link: #
+    name: "ADB-GCF Microsite story on Climate-Friendly Agribusiness Value Chains Sector Project (2 Sept).docx"
 weight: 5
 draft: false
 ---

@@ -64,6 +64,15 @@
             </ul>
             {{ end }}
 
+            {{ with .Params.story  }}
+            {{ $ref := . }}
+            
+            <h4>Project {{ cond (eq (len $ref) 1) "Story" "Stories" }}</h4>
+            <ul class="">
+                {{ range . }}<li><a href="{{ .link }}" target="_blank">{{ .name }}</a></li>{{ end }}
+            </ul>
+            {{ end }}
+
             {{ with .Params.countries }}
             {{ $countries := . }}
             
