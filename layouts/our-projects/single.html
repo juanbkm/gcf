@@ -47,6 +47,14 @@
             </ul>
             {{ end }}          
 
+            {{ with .Params.progress }}<h4>Actual Progress</h4>{{ end }}
+            {{ with .Params.progress }}
+            <ul class="">
+                {{ range . }}<li>{{ .item | markdownify }}</li>{{ end }}
+            </ul>
+            {{ end }}
+
+
             {{ with .Params.references  }}
             {{ $ref := . }}
             
