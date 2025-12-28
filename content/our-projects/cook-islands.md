@@ -29,6 +29,9 @@ subproject:
   - item: 6 MW solar PV capacity; 
   - item: 10,000 beneficiaries
   - item: Four islands in the southern group fully convert energy system from diesel fuel to renewable energy sources.
+progress:
+  - item: 2 battery energy storage systems energized with an additional solar PV generation
+  - item: Program support technical assistance for capacity-building and sector reform was provided to covered developing member countries
 references:
   - link: https://www.adb.org/projects/46453-002/main
     name: "Cook Islands: Renewable Energy Sector Project"
