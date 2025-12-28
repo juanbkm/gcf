@@ -22,6 +22,9 @@ impact:
   - item: 11,300 beneficiaries from adaptation
   - item: 535,400 tCO<sub>2</sub>e emissions avoided
   - item: 170-meter-long climate-resilient wharf and breakwater constructed
+progress:
+  - item: 94% completion of civil works on wharf, berth pocket, and buildings
+  - item: Permanent protection (revetment) is to be completed by mid-2026
 references:
   - link: https://www.adb.org/news/features/qa-how-new-port-building-skills-and-knowledge-nauru
     name: "Q&A: How a New Port is Building Skills and Knowledge in Nauru"
