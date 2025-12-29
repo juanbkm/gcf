@@ -28,6 +28,10 @@ impact:
   - item: 37.5 Mt CO2e avoided
   - item: 22.5 million beneficiaries from adaptation
   - item: Additional $1.1 B in climate finance mobilized
+progress:
+  - item:	2.8 million tCO2e reduced
+  - item: 856,688 beneficiaries (216,092 direct and 640,596 indirect) from adaptation
+  - item: 1.09 billion of total finance leveraged by GCF funding
 references:
   - link: https://www.adb.org/projects/51194-001/main
     name: "China, People's Republic of: Shandong Green Development Fund Project"

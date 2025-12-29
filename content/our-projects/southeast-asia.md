@@ -11,9 +11,9 @@ adb_approval_date: "November 2021"
 project_cost: $ 4.02 B
 financing:
   - name: ADB
-    amount: $3.385 B
+    amount: $3.385 billion
   - name: GCF
-    amount: $300 M [Loan - $280 M; Grant - $20 M]
+    amount: $300 million [Loan - $280 million; Grant - $20 million]
 impact:
   - item: 119 million tCO<sub>e</sub> in net GHG emissions reduced / avoided (lifetime emissions)
   - item: 45% of sub-projects over time will classify as ‘Priority Green’, meeting global best practice thresholds for GHG reductions 
@@ -25,6 +25,9 @@ countries:
   - item: Lao People's Democratic Republic 
   - item: Malaysia
   - item: Philippines
+progress:
+  - item: "$70 million of GCF reimbursable funds committed to 3 sub-projects, with an expected 395,325 tCO2e avoidance per year over the projects’ lifetime (or 8 million tCO2e lifetime avoidance): Cambodia Energy Sector Development Program, subprogram 1 (2022), and subprogram 2 (2025); and Philippines Davao Public Transport Modernization Project (2023)."
+  - item: "$15 million of GCF non-reimbursable funds committed to technical assistance projects, supporting initiatives in project origination including public-private partnership structures, capital markets development, and policy, knowledge and capacity building."
 references:
   - link: https://www.greenclimate.fund/document/asean-catalytic-green-finance-facility-acgf
     name: "GCF: ASEAN Catalytic Green Finance Facility (ACGF)"
@@ -46,7 +49,7 @@ While being a distinct ADB-managed program, the ACGF GRP leverages the strengths
   * progressively utilize and champion more sophisticated innovative financing structures over time.
  
 * Mobilizing **substantial global green capital flows**, both through projects as well as through further replication of these across the region at scale, by catalyzing $ in additional private/commercial finance for every GCF $1 spent, through green bonds, hybrid public-private partnerships (PPPs) (in partnership with Office of Markets Development and Public-Private Partnership), and other innovative financing models
-* Enabling investments in low-emission infrastructure, expected to **directly reduce 119 million tonnes of CO&#8322;** (lifetime emissions) **and create at least 340,000 ‘green’ jobs**, demonstrating the benefits of a green recovery (with co-benefits in terms of gender equity and social inclusion)
+* Enabling investments in low-emission infrastructure, expected to **directly reduce 119 million tCO₂e of CO&#8322;** (lifetime emissions) **and create at least 340,000 ‘green’ jobs**, demonstrating the benefits of a green recovery (with co-benefits in terms of gender equity and social inclusion)
 * Supporting governments to **prioritize low-emission projects within infrastructure pipelines**, especially in immediate post-COVID-19 recovery (2021-2026), strengthening project pipelines, shaping bankability, and other enabling environment factors that will facilitate further green investments
 * Transforming ADB’s pipeline for the region (around $5 to $6 billion committed per year), building on ADB’s climate operations, to scale up **a more ambitious and transformative generation of high-performing, low-emission projects** while tackling the financing challenges emerging from the COVID-19 crisis
 

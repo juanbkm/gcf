@@ -26,9 +26,17 @@ impact:
   - item: 13,616 tCO<sub>2</sub>eq per year;
   - item: 22.2 MWh of battery energy storage systems (BESSs) installed
   - item: 7.8 MW of solar capacity finance by IPPs enabled
+progress:
+  - item: 13,290 tCO<sub>2</sub>e reduced
+  - item: 93,127 beneficiaries from adaptation
+  - item: 24.98 MWh of battery energy storage systems (BESSs) installed
+  - item: 6.91 MW of solar capacity finance by IPPs enabled
 references:
   - link: https://www.adb.org/projects/49450-012/main
     name: "Tonga: Renewable Energy Project"
+story:
+  - link: #
+    name: "ADB-GCF Microsite story on Tonga energy project video (27 Aug).docx"
 weight: 9
 draft: false
 ---

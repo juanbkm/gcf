@@ -28,6 +28,7 @@ impact:
   - item: 100% of BRT stations and buses score maximum points on the BRT Standard for universal accessibility, and include genderinclusive physical and operational design features
   - item: Mixed-traffic lanes, sidewalks, and streetlights improved; bicycle lanes built; green areas and parking added in various places along the 26.6 km Red Line corridor
   - item: At least 200 bus stops installed along 80 km of off-corridor BRT routes
+  - item: Key civil works (underpasses/flyovers) are 70–98% complete
 references:
   - link: https://www.adb.org/projects/47279-002/main
     name: "Pakistan: Karachi Bus Rapid Transit Red Line Project"

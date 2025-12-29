@@ -28,6 +28,11 @@ impact:
   - item: 10,000 green housing units that are energy efficient, affordable, and designed to maximize the use of renewable energy.
   - item:	100 hectares of *ger* areas will be redeveloped into eco-districts that are both low-carbon and climate resilient as part of the project. 
   - item:	1.4 million people in Ulaanbaatar benefitting from reduced air pollution, further estimated to grow to 2.7 million people by 2050
+progress:
+  - item: 598 housing units are being constructed
+  - item: Construction progress varies across the project construction sites. Bayankhoshuu and Sharkhad sub-centers are significant focus areas, with a combination of completed, under construction (work-in-progress), and planned units. A total of 220 units is completed and will be turned over to the Government in October 2025.
+  - item: Eco-district Development and Green Affordable Housing Fund (EDAF) was established and approved and registered by the Financial Regulatory Commission
+  - item: Project scope changes, and extension of timelines were approved by the GCF Board
 references:
   - link: https://www.adb.org/projects/49169-002/main
     name: "Mongolia: Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project"

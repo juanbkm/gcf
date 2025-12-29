@@ -24,6 +24,12 @@ impact:
   - item: 2.5 MW of solar PV
   - item: At least 95% of South Tarawa’s population (51.5% of them women) has access to safe, climate-resilient water supplies
   - item: 6,000cbm/day desalination capacity is installed
+progress:
+  - item: Construction of the McKenzie desalination plant and commissioning tests completed
+  - item: Construction of the Betio desalination plant completed and commissioning activities to initiate soon
+  - item: Ongoing construction of the solar photovoltaic array and associated works
+  - item: Bid evaluation ongoing for works for the reconstruction of the South Tarawa water supply networks
+  - item: Ongoing community awareness activities on climate change and improved hygiene behaviors under the WASH Awareness Program (WAP)
 references:
   - link: https://www.adb.org/projects/49453-002/main
     name: "Kiribati: South Tarawa Water Supply Project"

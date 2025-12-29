@@ -41,6 +41,13 @@ references:
     name: "Community Resilience Financing Partnership Facility (CRFPF)"
   - link: https://events.development.asia/learning-events/community-resilience-partnership-program-crpp-forum-2024
     name: "Community Resilience Partnership Program (CRPP) Forum 2024"
+videos:
+  - link: https://www.youtube.com/watch?v=84U1gY41GrA
+    name: "Community Resilience Partnership Program: Green Primary Care Project"
+  - link: https://www.youtube.com/watch?v=b-8hlLtu_6s
+    name: "Community Resilience Partnership Program: Building Resilience and Reducing Rural Poverty Project"
+  - link: https://www.youtube.com/watch?v=qfsFP3Ax-_A
+    name: "Community Resilience Partnership Program: Climate-Resilient Landscapes and Livelihoods Project"
 weight: 11
 draft: false
 ---

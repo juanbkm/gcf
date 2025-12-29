@@ -73,6 +73,15 @@
             </ul>
             {{ end }}
 
+            {{ with .Params.videos  }}
+            {{ $ref := . }}
+            
+            <h4>{{ cond (eq (len $ref) 1) "Video" "Videos" }}</h4>
+            <ul class="">
+                {{ range . }}<li><a href="{{ .link }}" target="_blank">{{ .name }}</a></li>{{ end }}
+            </ul>
+            {{ end }}
+
             {{ with .Params.countries }}
             {{ $countries := . }}
             
