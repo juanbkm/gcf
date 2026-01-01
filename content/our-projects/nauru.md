@@ -3,7 +3,7 @@ title: "Nauru"
 date: 2020-06-09T01:18:19+08:00
 header: 
 project_image:
-project_image_thumb: nauru-th.jpg
+project_image_thumb: nauru-2-th.jpg
 project_image_alt: image
 project_name: Sustainable and Climate-Resilient Connectivity Project in Nauru
 approval_date: October 2017
@@ -32,12 +32,20 @@ references:
     name: "How innovation is helping to deliver a new port for Nauru"
   - link: https://www.adb.org/news/videos/port-upgrade-throws-lifeline-people-nauru
     name: "Port Upgrade Throwing a Lifeline to the People of Nauru"
+
+slider:
+  - image: fp052-nau-01.jpg
+  - image: fp052-nau-02.jpg
+  - image: fp052-nau-03.jpg
+  - image: fp052-nau-04.jpg
 weight: 3
 draft: false
 ---
 Approved by the GCF in October 2017, the project is expected to transform Nauru’s 111-year-old boat harbor in Aiwo from a dysfunctional facility into an efficient, climate-resilient, and the country’s first fully functioning international port. This will ensure economic, cultural, and social connectivity for Nauru within the region and globally.
 
 The project will also help reform port governance and management, notably through the institution of appropriate and equitable tariffs and improvements in revenue collection. It will also build the capacity of the Nauru Port Authority (NPA) through the hiring of qualified staff and on-the-job and specific training for financial, economic, and institutional sustainability.
+
+{{< gcf-fslider >}}
 
 Nauru lies 40 kilometers south of the equator, far from all international partners and markets. The country depends almost entirely on its port for supplies of food, energy, and most other essentials.
 

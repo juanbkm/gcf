@@ -29,9 +29,9 @@ impact:
   - item:	100 hectares of *ger* areas will be redeveloped into eco-districts that are both low-carbon and climate resilient as part of the project. 
   - item:	1.4 million people in Ulaanbaatar benefitting from reduced air pollution, further estimated to grow to 2.7 million people by 2050
 progress:
-  - item: 598 housing units are being constructed
-  - item: Construction progress varies across the project construction sites. Bayankhoshuu and Sharkhad sub-centers are significant focus areas, with a combination of completed, under construction (work-in-progress), and planned units. A total of 220 units is completed and will be turned over to the Government in October 2025.
-  - item: Eco-district Development and Green Affordable Housing Fund (EDAF) was established and approved and registered by the Financial Regulatory Commission
+  - item: 674 housing units are being constructed
+  - item: Construction progress varies across the project construction sites. Bayankhoshuu and Sharkhad sub-centers are significant focus areas, with a combination of completed, under construction (work-in-progress), and planned units. A total of 220 units is completed and first 110 units were  turned over to the Government in December 2025. Remaining 110 completed units will be turned over to the Government in the second quarter of 2026 upon completion of the ongoing landscaping works. 
+  - item: Eco-district Development and Green Affordable Housing Fund (EDAF) was established and approved and registered by the Financial Regulatory Commission in 2025.
   - item: Project scope changes, and extension of timelines were approved by the GCF Board
 references:
   - link: https://www.adb.org/projects/49169-002/main
@@ -66,8 +66,8 @@ The project has the potential to set a new precedent on the linkage between urba
     <li>
     <p>Implement a financial intermediary component, with revolving mechanism, to leverage private sector resources and support affordable green housing units (both supply and demand). On the supply side, the loan proceeds will be provided through commercial banks as medium-term loans to selected private developers which will be blended with the developers’ equities and commercial bank loans. On the demand side, the loan proceeds will be provided as low-cost long-term mortgages to homebuyers to purchase the affordable and market rate housing units.</p>
     </li>
-    <li><p>Establish a Green Building facility that will provide performance-based grants to qualified private developers for climate change mitigation and adaptation features such as passive housing design, extra isolation system, and heating regulation system. The aim is to bring down the energy consumption for heating to 151 kWh/m2 per year from 395 kWh/m2 per year, for a total reduction of 229,436,128 kWh thermal energy input.</p></li>
-    <li><p>Promote renewable energy by delivering 71,000 m2 of 11MW solar PV on rooftop, that will generate 15.6 GWh per year.</p></li>
+    <li><p>Establish a Green Building facility that will provide performance-based grants to qualified private developers for climate change mitigation and adaptation features such as passive and active energy efficiency solutions, extra isolation system, and heating regulation system. The aim is to bring down the energy consumption for heating to 151 kWh/m2 per year from 395 kWh/m2 per year, for a total reduction of 229,436,128 kWh thermal energy input.</p></li>
+    <li><p>Promote renewable energy by delivering 3,800m2 of 11MW solar PV on the building façade and rooftop, that will generate 15.6 GWh per year.</p></li>
   </ul>
 </li>
 <li>
@@ -77,7 +77,7 @@ Smart renewable energy and building performance control and monitoring system wi
 </li>
 <li>
 
-Urban Farming to introduce urban greenhouses in the eco-district that will increase revenues from vegetable and fruit growing, and establish a cooperative of urban farmers and vegetable producers.
+Urban Farming to introduce urban greenhouses in the eco-district that will increase revenues from vegetable and fruit growing, and establish community groups of urban farmers and vegetable producers.
 
 </li>
 
