@@ -2,6 +2,8 @@
 title: "Central West Asia"
 date: 2025-12-30T23:25:47+08:00
 header: 
+project_image:
+project_image_thumb: central-west-asia-th.jpg
 project_name: "Glaciers to Farms (G2F) Regional Program: Advancing Climate Resilience & Sustainable Development in Central and West Asia"
 approval_date: October 2025
 project_cost: $43.5B

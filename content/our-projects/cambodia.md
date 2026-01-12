@@ -37,8 +37,8 @@ references:
   - link: https://www.greenclimate.fund/story/cambodia-s-climate-action-game-changer-resilient-agricultural-value-chains
     name: "Cambodia's Climate Action Game-Changer: Resilient Agricultural Value Chains"
 story:
-  - link: #
-    name: "ADB-GCF Microsite story on Climate-Friendly Agribusiness Value Chains Sector Project (2 Sept).docx"
+  - link: 
+    name: '[ADB-GCF Microsite story on Climate-Friendly Agribusiness Value Chains Sector Project]({{< ref "making-cambodias-agriculture-climate-resilient.md" >}})'
 weight: 5
 draft: false
 ---

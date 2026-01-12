@@ -15,4 +15,4 @@ The GCF is global funding platform established in 2010 under the United Nations 
 
 Based on the request of an ADB DMC, ADB can access GCF resources to co-finance ADB projects of any GCF funding category (type, size, risk category, and modality).
 
-To date, GCF has approved a total funding of $1.696 billion for 14 ADB projects, comprising $681.4 million in grants and $1.015 billion in loans. Total project financing for all 14 projects is $9.06 billion.
+To date, GCF has approved a total funding of $1.696 billion for 17 ADB projects, comprising $681.4 million in grants and $1.015 billion in loans. Total project financing for all 14 projects is $9.06 billion.

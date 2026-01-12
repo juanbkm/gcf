@@ -41,6 +41,6 @@ events:
       - item: "[E-Mobility Program](./our-projects/multi-country-2/)"
   - year: 2025
     milestone: 
-      - item: "India Green Finance Facility (IGFF)"
-      - item: "SOURCE Pacific Drinking Water Project"
-      - item: "Glaciers to Farms (G2F) Regional Program: Advancing Climate Resilience & Sustainable Development in Central and West Asia"
+      - item: "[India Green Finance Facility (IGFF)](./our-projects/india/)"
+      - item: "[SOURCE Pacific Drinking Water Project](./our-projects/pacific-islands/)"
+      - item: "[Glaciers to Farms (G2F) Regional Program: Advancing Climate Resilience & Sustainable Development in Central and West Asia](./our-projects/central-west-asia/)"

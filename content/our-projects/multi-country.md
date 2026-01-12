@@ -67,7 +67,7 @@ The CRPP is operationalized through the Community Resilience Financing Partnersh
 
 1.	The CRPP Trust Fund: a multi-donor trust fund administered by ADB and financed by Agence Française de Développement, Nordic Development Fund, and the Government of the United Kingdom, through its Foreign, Commonwealth, and Development Office. The trust fund focuses on upstream support to strengthen the enabling environment required for financing and implementing local adaptation measures at scale.
 
-2.	The CRPP Investment Fund: Cofinanced by ADB and the GCF, the fund focuses on the efficient rollout of local adaptation measures through downstream investment programs. The investment fund will provide support to seven countries in the Asia and the Pacific region: the Republic of Cambodia, Lao People’s Democratic Republic, the Republic of Indonesia, Papua New Guinea, the Islamic Republic of Pakistan, Timor-Leste, and the Republic of Vanuatu.
+2.	The CRPP Investment Fund: Cofinanced by ADB and the GCF, the fund focuses on the efficient rollout of local adaptation measures through downstream investment programs. The investment fund will provide support to seven countries in the Asia and the Pacific region: Cambodia, the Lao People’s Democratic Republic, Indonesia, Papua New Guinea, Pakistan, Timor-Leste, and Vanuatu.
 
 The GCF Board approved US$120 million for the CRPP at its 37th board meeting on 25 October 2023. 
 

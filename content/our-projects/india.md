@@ -1,7 +1,9 @@
 ---
 title: "India"
 date: 2025-12-29T16:51:16+08:00
-header: 
+header: section-mongolia.jpg
+project_image:
+project_image_thumb: india-th.jpg
 project_name: India Green Finance Facility (IGFF)
 approval_date: July 2025
 project_cost: TBD

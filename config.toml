@@ -43,6 +43,11 @@ summaryLength = 10
   url = "/our-projects/"
   weight  = 4
 
+[[menu.main]]
+  identifier = "project-stories"
+  name = "Project Stories"
+  url = "/project-stories/"
+  weight  = 4
 
 [markup]
 [markup.goldmark]

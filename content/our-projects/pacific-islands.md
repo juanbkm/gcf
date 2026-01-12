@@ -2,14 +2,16 @@
 title: "Pacific Islands"
 date: 2025-12-29T23:16:10+08:00
 header: 
-project_name: Pacific Drinking Water Project
+project_image:
+project_image_thumb: source-th.jpg
+project_name: "SOURCE: Pacific Drinking Water Project"
 approval_date: July 2025
 project_cost: $48.5 M
 financing:
   - name: ADB 
     amount: $793.0 M
   - name: GCF  
-    amount: "$9 M Loan: $187 M, Grant: $13 M)"
+    amount: "$9 M (Loan: $187 M, Grant: $13 M)"
 impact:
   - item: 50 million metric tonnes CO2e avoided 
 countries:

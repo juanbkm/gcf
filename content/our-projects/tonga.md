@@ -16,7 +16,7 @@ financing:
     amount: $29.9 M (Grant)
   - name: Government of Australia
     amount: $2.5 M
-  - name: Government
+  - name: Government of Tonga 
     amount: $5.6 M
   - name: Tonga Power Limited
     amount: $3.0 M
