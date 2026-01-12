@@ -35,8 +35,8 @@ references:
   - link: https://www.adb.org/projects/49450-012/main
     name: "Tonga: Renewable Energy Project"
 story:
-  - link: #
-    name: "ADB-GCF Microsite story on Tonga energy project video (27 Aug).docx"
+  - link: 
+    name: '[ADB-GCF Microsite story on Tonga energy project]({{< ref "tonga-moves-towards-climate-resiliency.md" >}})'
 weight: 9
 draft: false
 ---

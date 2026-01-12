@@ -9,8 +9,8 @@ approval_date: October 2025
 project_cost: $43.5B
 financing:
   - name: GCF 
-    amount: "$250M M Loan: $41.8 M, Grant: $208.2 M)"
-  - name: •	Co-financing
+    amount: "$250M M (Loan: $41.8 M, Grant: $208.2 M)"
+  - name: Co-financing
     amount: $3.25 billion (Grant and loans)
 impact:
   - item: 45.1 million beneficiaries 

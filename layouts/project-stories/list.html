@@ -11,37 +11,34 @@
             {{ $markdown }}
         {{ end }}
     </div>
-    <!-- Project Items
-    ============================================= -->
-    <div id="portfolio" class="portfolio row grid-container gutter-50" data-layout="fitRows">
 
-        {{ range .Pages  }}
-        <article class="portfolio-item col-sm-4 col-12 pf-media pf-icons">
-            <div class="grid-inner">
-                <div class="portfolio-image">
-                <a href="{{ .Permalink }}">
-                    <img src="./images/{{ .Params.project_image_thumb }}" alt="{{ .Params.project_image_alt }}">
-                </a>
-                <!-- Overlay: Start -->
-                <div class="bg-overlay">
-                    <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
-                    <a href="./images/{{ .Params.project_image_thumb }}" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
-                    <a href="{{ .Permalink }}" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"><i class="icon-line-ellipsis"></i></a>
-                    </div>
-                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
+    {{ range .Pages  }}
+    <article class="col-12 pf-media pf-icons project-stories">
+        <div class="grid-inner">
+            <!--// 
+            <div class="portfolio-image">
+            <a href="{{ .Permalink }}">
+                <img src="./images/{{ .Params.project_image_thumb }}" alt="{{ .Params.project_image_alt }}">
+            </a>
+            !-- Overlay: Start --
+            <div class="bg-overlay">
+                <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
+                <a href="./images/{{ .Params.project_image_thumb }}" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350" data-lightbox="image" title="Image"><i class="icon-line-plus"></i></a>
+                <a href="{{ .Permalink }}" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="fadeInDownSmall" data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350"><i class="icon-line-ellipsis"></i></a>
                 </div>
-                <!-- Overlay: End -->
-                </div>
-                <div class="portfolio-desc">
-                    <span>{{ .Params.title }}</span>
-                    <h3><a href="{{ .Permalink }}">{{ .Params.project_name }}</a></h3>
-                </div>
+                <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
             </div>
-        </article>
-        {{ end }}
+            !-- Overlay: End --
+            </div>
+            //-->
+            <div class="portfolio-desc">
+                <span>{{ .Params.project_name }}</span>
+                <h2><a href="{{ .Permalink }}">{{ .Params.title }}</a></h2>
+            </div>
+        </div>
+    </article>
+    {{ end }}
        
-
-    </div><!-- #projects end -->
 
 </div>
 

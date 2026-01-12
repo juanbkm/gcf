@@ -1,5 +1,6 @@
 ---
 title: "Tonga Moves Towards Climate Resiliency"
+project_name: Tonga Renewable Energy Project
 date: 2026-01-12T15:08:41+08:00
 ---
 Like many Small Island Developing States in the Pacific, Tonga is among the countries extremely vulnerable to the perils of climate change due to its low-lying islands. These climate impacts pose hazards to vital infrastructure, disrupting the country’s energy supply and access. Exacerbating Tonga’s situation is its heavy reliance on imported diesel, which accounts for 90 percent of its electricity generation. Thus, catalytic investments are needed to transform the country’s energy sector and infrastructure. 

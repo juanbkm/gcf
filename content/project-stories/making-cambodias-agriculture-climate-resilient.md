@@ -1,6 +1,7 @@
 ---
 title: "Making Cambodias Agriculture Climate Resilient"
 date: 2026-01-12T10:25:21+08:00
+project_name: Climate-Friendly Agribusiness Value Chains Sector Project
 ---
 Around 80 percent of the population in Cambodia depends on rainfed agriculture for livelihood. As the country is highly vulnerable to climate change, droughts and erratic precipitation lead to unstable yields and food insecurity. Exacerbating this are poor infrastructure and a range of capacity and policy constraints that result in fragmented agricultural value chains. 
 

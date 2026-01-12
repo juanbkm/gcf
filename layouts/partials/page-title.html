@@ -2,7 +2,10 @@
 		<section id="page-title" class="">
 
 			<div class="container clearfix">
+				{{ if eq .Section "project-stories" }}
+				{{ else }}
 				<h1 data-animate="fadeInUp" class="">{{ .Title }}</h1>
+				{{ end }}
 				<!-- <span data-animate="fadeInUp" data-delay="300">{{ .Params.project_name }}</span>  -->
 				<ol class="breadcrumb">
           {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
